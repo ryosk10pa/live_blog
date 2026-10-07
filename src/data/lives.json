@@ -1,8 +1,775 @@
 [
     {
-        "slug": "2026-OBOG-DAY1",
-        "title": "2026 OBOG DAY1",
-        "date": "2026-06-22",
+        "slug": "202402-OBOG-DAY1",
+        "title": "202402 OBOG DAY1",
+        "date": "2024-02-10",
+        "videos": [
+        {
+            "id": 1,
+            "title": "SEKIYU SQUARE GARDEN",
+            "url": "https://youtu.be/OtWqDNvY_KI",
+            "tags": ["SEKIYU SQUARE GARDEN", "OBOG", "2024", "2/10"]
+        },
+        {
+            "id": 2,
+            "title": "FF",
+            "url": "https://youtu.be/QL1e7beGTXw",
+            "tags": ["FF", "OBOG", "2024", "2/10"]
+        },
+        {
+            "id": 3,
+            "title": "魔法使い○○ちゃん",
+            "url": "https://youtu.be/ilTvTZ6pt94",
+            "tags": ["魔法使い○○ちゃん", "OBOG", "2024", "2/10"]
+        },
+        {
+            "id": 4,
+            "title": "ちょこれーと☆めろでぃ",
+            "url": "https://youtu.be/SFv8nxwYmm8",
+            "tags": ["ちょこれーと☆めろでぃ", "OBOG", "2024", "2/10"]
+        },
+        {
+            "id": 5,
+            "title": "大正B小町",
+            "url": "https://youtu.be/H7rqgcm0ynQ",
+            "tags": ["大正B小町", "OBOG", "2024", "2/10"]
+        },
+        {
+            "id": 6,
+            "title": "キタニタツヤやる",
+            "url": "https://youtu.be/EiGcEx3Cztk",
+            "tags": ["キタニタツヤやる", "OBOG", "2024", "2/10"]
+        },
+        {
+            "id": 7,
+            "title": "再結束バンド",
+            "url": "https://youtu.be/i_ScXJHmxiQ",
+            "tags": ["再結束バンド", "OBOG", "2024", "2/10"]
+        },
+        {
+            "id": 8,
+            "title": "第二次プラハ窓外放出事件",
+            "url": "https://youtu.be/fot7sUT5hhw",
+            "tags": ["第二次プラハ窓外放出事件", "OBOG", "2024", "2/10"]
+        },
+        {
+            "id": 9,
+            "title": "THE ORAL CIGARETTES",
+            "url": "https://youtu.be/LT_Nkbfbp8k",
+            "tags": ["THE ORAL CIGARETTES", "OBOG", "2024", "2/10"]
+        },
+        {
+            "id": 10,
+            "title": "痛風坊主と絶望少女達",
+            "url": "https://youtu.be/NP4YQ80_-vk",
+            "tags": ["痛風坊主と絶望少女達", "OBOG", "2024", "2/10"]
+        },
+        {
+            "id": 11,
+            "title": "バンドするやつ",
+            "url": "https://youtu.be/Z7VtyuEdNZw",
+            "tags": ["バンドするやつ", "OBOG", "2024", "2/10"]
+        }
+        ]
+    },
+    {
+        "slug":"202402-OBOG-DAY2",
+        "title":"202402 OBOG DAY2",
+        "date":"2024-02-11",
+        "videos":[
+        {
+            "id": 1,
+            "title": "THE TACOSS",
+            "url": "https://youtu.be/wOM41KWvMUQ",
+            "tags": ["THE TACOSS", "OBOG", "2024", "2/12"]
+        },
+        {
+            "id": 2,
+            "title": "04LS",
+            "url": "https://youtu.be/XkGCLJ_gyuk",
+            "tags": ["04LS", "OBOG", "2024", "2/12"]
+        },
+        {
+            "id": 3,
+            "title": "オカモトズやる",
+            "url": "https://youtu.be/Z62KiBDhEaY",
+            "tags": ["オカモトズやる", "OBOG", "2024", "2/12"]
+        },
+        {
+            "id": 4,
+            "title": "かまってちゃん",
+            "url": "https://youtu.be/5Z8yasxShyA",
+            "tags": ["かまってちゃん", "OBOG", "2024", "2/12"]
+        },
+        {
+            "id": 5,
+            "title": "まきしまむ ザ ほるもん",
+            "url": "https://youtu.be/CtvyOI5AEVY",
+            "tags": ["まきしまむ ザ ほるもん", "OBOG", "2024", "2/12"]
+        },
+        {
+            "id": 6,
+            "title": "アヴリル",
+            "url": "https://youtu.be/3lsYoOtlpRM",
+            "tags": ["アヴリル", "OBOG", "2024", "2/12"]
+        },
+        {
+            "id": 7,
+            "title": "BMTH",
+            "url": "https://youtu.be/3_BZp4v4kmI",
+            "tags": ["BMTH", "OBOG", "2024", "2/12"]
+        },
+        {
+            "id": 8,
+            "title": "BLEACH FSD決戦篇",
+            "url": "https://youtu.be/GHjIuB2ANYw",
+            "tags": ["BLEACH FSD決戦篇", "OBOG", "2024", "2/12"]
+        },
+        {
+            "id": 9,
+            "title": "SHANK",
+            "url": "https://youtu.be/4rMFDL1A_1k",
+            "tags": ["SHANK", "OBOG", "2024", "2/12"]
+        },
+        {
+            "id": 10,
+            "title": "坂元は乞食ではない",
+            "url": "https://youtu.be/6mAKo8M2kag",
+            "tags": ["坂元は乞食ではない", "OBOG", "2024", "2/12"]
+        },
+        {
+            "id": 11,
+            "title": "人間椅子",
+            "url": "https://youtu.be/v9of3TEVj4g",
+            "tags": ["人間椅子", "OBOG", "2024", "2/12"]
+        }
+        ]
+    },  
+    {
+        "slug": "202507-OBOG-DAY1",
+        "title": "202507 OBOG DAY1",
+        "date": "2025-07-19",
+        "videos": [
+  {
+            "id": 1,
+            "title": "KAWAII LAB.",
+            "url": "https://youtu.be/FuO1D-AhkvQ",
+            "tags": ["KAWAII LAB.", "OBOG", "2024", "7/19"]
+        },
+        {
+            "id": 2,
+            "title": "パクチー SQUARE GARDEN",
+            "url": "https://youtu.be/XnRXYm430aA",
+            "tags": ["パクチー SQUARE GARDEN", "OBOG", "2024", "7/19"]
+        },
+        {
+            "id": 3,
+            "title": "カネコアヤノ",
+            "url": "https://youtu.be/_LLoApUuWM8",
+            "tags": ["カネコアヤノ", "OBOG", "2024", "7/19"]
+        },
+        {
+            "id": 4,
+            "title": "Re：結束バンド",
+            "url": "https://youtu.be/HDy1KdglAvQ",
+            "tags": ["Re：結束バンド", "OBOG", "2024", "7/19"]
+        },
+        {
+            "id": 5,
+            "title": "竹谷黄色",
+            "url": "https://youtu.be/O_G8sYTPbA4",
+            "tags": ["竹谷黄色", "OBOG", "2024", "7/19"]
+        },
+        {
+            "id": 6,
+            "title": "砂人間露わる",
+            "url": "https://youtu.be/1WMgW4T8SKQ",
+            "tags": ["砂人間露わる", "OBOG", "2024", "7/19"]
+        },
+        {
+            "id": 7,
+            "title": "オチャノミズ",
+            "url": "https://youtu.be/sVANP6Y5qzI",
+            "tags": ["オチャノミズ", "OBOG", "2024", "7/19"]
+        },
+        {
+            "id": 8,
+            "title": "パクチー",
+            "url": "https://youtu.be/iuVoeiskKb4",
+            "tags": ["パクチー", "OBOG", "2024", "7/19"]
+        },
+        {
+            "id": 9,
+            "title": "弾き語るよーの枠",
+            "url": "https://youtu.be/7GPl-0WGGZ4",
+            "tags": ["弾き語るよーの枠", "OBOG", "2024", "7/19"]
+        },
+        {
+            "id": 10,
+            "title": "タイダラ",
+            "url": "https://youtu.be/JAtLjH1OYqg",
+            "tags": ["タイダラ", "OBOG", "2024", "7/19"]
+        },
+        {
+            "id": 11,
+            "title": "春二散ル吉開",
+            "url": "https://youtu.be/qt_dNNQmWGQ",
+            "tags": ["春二散ル吉開", "OBOG", "2024", "7/19"]
+        }
+        ]
+    },
+    {
+        "slug": "202501-OBOG-DAY1",
+        "title": "202501 OBOG DAY1",
+        "date": "2025-01-11",
+        "videos": [
+        {
+            "id": 1,
+            "title": "LISA",
+            "url": "https://youtu.be/GjBt2ntAYPw",
+            "tags": ["LISA", "OBOG", "2024", "1/11"]
+        },
+        {
+            "id": 2,
+            "title": "マソソソマソソソ",
+            "url": "https://youtu.be/pzVEz3NoiBs",
+            "tags": ["マソソソマソソソ", "OBOG", "2024", "1/11"]
+        },
+        {
+            "id": 3,
+            "title": "クラムボン",
+            "url": "https://youtu.be/bhwB_NKf6LQ",
+            "tags": ["クラムボン", "OBOG", "2024", "1/11"]
+        },
+        {
+            "id": 4,
+            "title": "弾き語る",
+            "url": "https://youtu.be/2hiT1InVFfM",
+            "tags": ["弾き語る", "OBOG", "2024", "1/11"]
+        },
+        {
+            "id": 5,
+            "title": "熱き決闘者たち",
+            "url": "https://youtu.be/0cW0lD9dspY",
+            "tags": ["熱き決闘者たち", "OBOG", "2024", "1/11"]
+        }
+        ]
+    },
+
+    {
+        "slug": "202603-OIKON22-DAY1",
+        "title": "さらば22! 完全卒業ライブ「僕たち私たち、普通のバンドマンに戻ります」〜たつ鳥跡を刻み込むSP〜 DAY1",
+        "date": "2026-03-07",
+        "videos": [
+            {
+                "id": 1,
+                "title":"夜の本気パンツ",
+                "url":"https://youtu.be/Iw5NifoMO58",
+                "tags": ["夜の本気パンツ", "追いコン", "2026", "3/7"]
+            },
+            {
+                "id": 2,
+                "title":"OKAMOTO's",
+                "url":"https://youtu.be/7ebVVe65F18",
+                "tags": ["OKAMOTO's", "追いコン", "2026", "3/7"]
+            },
+            {
+                "id": 3,
+                "title":"WACK",
+                "url":"https://youtu.be/GIH6lq_RGR4",
+                "tags": ["WACK", "追いコン", "2026", "3/7"]
+            },
+            {
+                "id": 4,
+                "title":"blink182",
+                "url":"https://youtu.be/f8r00JAE2u4",
+                "tags": ["blink182", "追いコン", "2026", "3/7"]
+            },
+            {
+                "id": 5,
+                "title":"女子ドラマーだって前に立ちたい",
+                "url":"https://youtu.be/-uIbnpK5j5g",
+                "tags": ["女子ドラマーだって前に立ちたい", "追いコン", "2026", "3/7"]
+            },
+            {
+                "id": 6,
+                "title":"町民グランプリ",
+                "url":"https://youtu.be/dIn3HapgmdQ",
+                "tags": ["町民グランプリ", "追いコン", "2026", "3/7"]
+            },
+            {
+                "id": 7,
+                "title":"SUPEREIGHT",
+                "url":"https://youtu.be/xlyg1Lc8tJw",
+                "tags": ["SUPEREIGHT", "追いコン", "2026", "3/7"]
+            },
+            {
+                "id": 8,
+                "title":"Chevon",
+                "url":"https://youtu.be/uqjcL8k4qHo",
+                "tags": ["Chevon", "追いコン", "2026", "3/7"]
+            },
+            {
+                "id": 9,
+                "title":"ネクラニトーキー",
+                "url":"https://youtu.be/yyIuPcRAS5o?si=Lu836g8kK7tvbWJB",
+                "tags": ["ネクラニトーキー", "追いコン", "2026", "3/7"]
+            },
+            {
+                "id": 10,
+                "title":"羊文学",
+                "url":"https://youtu.be/ULs4Hw3-BeA",
+                "tags": ["羊文学", "追いコン", "2026", "3/7"]
+            },
+            {
+                "id": 11,
+                "title":"アザミ",
+                "url":"https://youtu.be/bAYtNXuW7Yk",
+                "tags": ["アザミ", "追いコン", "2026", "3/7"]
+            },
+            {
+                "id": 12,
+                "title":"[Mocktais]",
+                "url":"https://youtu.be/xKqz3jsQ08Y",
+                "tags": ["[Mocktais]", "追いコン", "2026", "3/7"]
+            },
+            {
+                "id": 13,
+                "title":"チョットモンチー&チャッソモンチー",
+                "url":"https://youtu.be/3pvNhQZ5TLo",
+                "tags": ["チョットモンチー&チャッソモンチー", "追いコン", "2026", "3/7"]
+            },
+            {
+                "id": 14,
+                "title":"MONO NO AWARE",
+                "url":"https://youtu.be/y9Ad7lxy4Dk",
+                "tags": ["MONO NO AWARE", "追いコン", "2026", "3/7"]
+            },
+            {
+                "id": 15,
+                "title":"THE IQOS CUGARETTES",
+                "url":"https://youtu.be/IOC3Wa18A28",
+                "tags": ["THE IQOS CUGARETTES", "追いコン", "2026", "3/7"]
+            },
+            {
+                "id": 16,
+                "title":"漢・祭！・祭！",
+                "url":"https://youtu.be/PPhzFlJ8Y6k",
+                "tags": ["漢・祭！・祭！", "追いコン", "2026", "3/7"]
+            }
+        ]
+
+    },
+        {
+        "slug": "202603-OIKON22-DAY2",
+        "title": "さらば22! 完全卒業ライブ「僕たち私たち、普通のバンドマンに戻ります」〜たつ鳥跡を刻み込むSP〜 DAY2",
+        "date": "2026-03-08",
+        "videos": [
+            {
+                "id": 1,
+                "title":"びっくりドンキー",
+                "url":"https://youtu.be/wSR5lGzR9us",
+                "tags": ["びっくりドンキー", "追いコン", "2026", "3/8"]
+            },
+            {
+                "id": 2,
+                "title":"HAPPY BIRTHDAY",
+                "url":"https://youtu.be/z8dFUPt7QMo",
+                "tags": ["HAPPY BIRTHDAY", "追いコン", "2026", "3/8"]
+            },
+            {
+                "id": 3,
+                "title":"Galileo Galilei",
+                "url":"https://youtu.be/VgKG_YuXElk",
+                "tags": ["Galileo Galilei", "追いコン", "2026", "3/8"]
+            },
+                        {
+                "id": 4,
+                "title":"クリームバイブ",
+                "url":"https://youtu.be/hMZEZOnLLZg",
+                "tags": ["クリームバイブ", "追いコン", "2026", "3/8"]
+            },
+            {
+                "id": 5,
+                "title":"20PER BEAVER",
+                "url":"https://youtu.be/l2YNsVk3DNA",
+                "tags": ["20PER BEAVER", "追いコン", "2026", "3/8"]
+            },
+                        {
+                "id": 6,
+                "title":"Mrs.GRANNY SMITH フェーズ2",
+                "url":"https://youtu.be/nz_pf8Xwzzw",
+                "tags": ["Mrs.GRANNY SMITH フェーズ2", "追いコン", "2026", "3/8"]
+            },
+            {
+                "id": 7,
+                "title":"カゲプロ",
+                "url":"https://youtu.be/t4lJrhmHH0M",
+                "tags": ["カゲプロ", "追いコン", "2026", "3/8"]
+            },
+                        {
+                "id": 8,
+                "title":"よるしか",
+                "url":"https://youtu.be/8fAWvprLPRM",
+                "tags": ["よるしか", "追いコン", "2026", "3/8"]
+            },
+            {
+                "id": 9,
+                "title":"King Gamo",
+                "url":"https://youtu.be/LrtEebnQeao",
+                "tags": ["King Gamo", "追いコン", "2026", "3/8"]
+            },
+                        {
+                "id": 10,
+                "title":"Ahooo",
+                "url":"https://youtu.be/dn4vRwZcHa8",
+                "tags": ["Ahooo", "追いコン", "2026", "3/8"]
+            },
+            {
+                "id": 11,
+                "title":"サイサイちゃんズ",
+                "url":"https://youtu.be/U5x1EzaVVG4",
+                "tags": ["サイサイちゃんズ", "追いコン", "2026", "3/8"]
+            },
+            {
+                "id": 12,
+                "title":"うぃんぷす学園",
+                "url":"https://youtu.be/aDn4VmoQS_M",
+                "tags": ["うぃんぷす学園", "追いコン", "2026", "3/8"]
+            },
+            {
+                "id": 13,
+                "title":"マキシマム ザ ホルモン",
+                "url":"https://youtu.be/QIeBS6yw83M",
+                "tags": ["マキシマム ザ ホルモン", "追いコン", "2026", "3/8"]
+            },
+            {
+                "id": 14,
+                "title":"ASIAN CHISATO GENERATION",
+                "url":"https://youtu.be/SoHef9HMsyA",
+                "tags": ["ASIAN CHISATO GENERATION", "追いコン", "2026", "3/8"]
+            },
+            {
+                "id": 15,
+                "title":"[Akixandors]",
+                "url":"https://youtu.be/fzNayzgFltI",
+                "tags": ["[Akixandors]", "追いコン", "2026", "3/8"]
+            },
+            {
+                "id": 16,
+                "title":"追いコン米津玄師",
+                "url":"https://youtu.be/DHPkmKlfWI4",
+                "tags": ["追いコン米津玄師", "追いコン", "2026", "3/8"]
+            }
+    ]
+    },
+    {
+        "slug": "202603-OIKON22-DAY3",
+        "title": "さらば22! 完全卒業ライブ「僕たち私たち、普通のバンドマンに戻ります」〜たつ鳥跡を刻み込むSP〜 DAY3",
+        "date": "2026-03-12",
+        "videos":[
+            {
+                "id": 1,
+                "title":"未定",
+                "url":"https://youtu.be/uEmiblbpbVg?si=AA0c0hnzLu3heck7",
+                "tags": ["未定", "追いコン", "2026", "3/12"]
+            },
+                        {
+                "id": 2,
+                "title":"レトロマイガール",
+                "url":"https://youtu.be/Or9r3Ehks94",
+                "tags": ["レトロマイガール", "追いコン", "2026", "3/12"]
+            },
+                        {
+                "id": 3,
+                "title":"ドラマーだって前に立ちたい！",
+                "url":"https://youtu.be/GoL3uL-BbNo",
+                "tags": ["ドラマーだって前に立ちたい！", "追いコン", "2026", "3/12"]
+            },
+                        {
+                "id": 4,
+                "title":"SODA!",
+                "url":"https://youtu.be/_aexSWQQSXA",
+                "tags": ["SODA!", "追いコン", "2026", "3/12"]
+            },
+                        {
+                "id": 5,
+                "title":"gogo7188!",
+                "url":"https://youtu.be/v-3wQcXtMUo",
+                "tags": ["gogo7188!", "追いコン", "2026", "3/12"]
+            },
+                        {
+                "id": 6,
+                "title":"ストレイテナー",
+                "url":"https://youtu.be/wx39Ogd_7k0",
+                "tags": ["ストレイテナー", "追いコン", "2026", "3/12"]
+            },
+                        {
+                "id": 7,
+                "title":"ONE MORE ROCK",
+                "url":"https://youtu.be/auERa5pCDCI",
+                "tags": ["ONE MORE ROCK", "追いコン", "2026", "3/12"]
+            },
+                        {
+                "id": 8,
+                "title":"ハイサイモンパチたかし",
+                "url":"https://youtu.be/-x8jab5CpDk",
+                "tags": ["ハイサイモンパチたかし", "追いコン", "2026", "3/12"]
+            },
+                        {
+                "id": 9,
+                "title":"ブランデー",
+                "url":"https://youtu.be/8KGIgJk27hw",
+                "tags": ["ブランデー", "追いコン", "2026", "3/12"]
+            },
+                        {
+                "id": 10,
+                "title":"アジカンたち",
+                "url":"https://youtu.be/oAk_PBXMhOg",
+                "tags": ["アジカンたち", "追いコン", "2026", "3/12"]
+            },
+                        {
+                "id": 11,
+                "title":"Hump Back",
+                "url":"https://youtu.be/ik79yVD1u6Q",
+                "tags": ["Hump Back", "追いコン", "2026", "3/12"]
+            },
+                        {
+                "id": 12,
+                "title":"MAD FIMPS",
+                "url":"https://youtu.be/psNTjcbyTRM",
+                "tags": ["MAD FIMPS", "追いコン", "2026", "3/12"]
+            },
+                        {
+                "id": 13,
+                "title":"KANA-BOON",
+                "url":"https://youtu.be/pTb8Lc2Z_9Y",
+                "tags": ["KANA-BOON", "追いコン", "2026", "3/12"]
+            },
+                        {
+                "id": 14,
+                "title":"NUMBERGIRL",
+                "url":"https://youtu.be/jrL5zIgWFe8",
+                "tags": ["NUMBERGIRL", "追いコン", "2026", "3/12"]
+            },
+                        {
+                "id": 15,
+                "title":"JUDY END MARY",
+                "url":"https://youtu.be/F4OuhX9_xpA",
+                "tags": ["JUDY END MARY", "追いコン", "2026", "3/12"]
+            },
+                        {
+                "id": 16,
+                "title":"サザン",
+                "url":"https://youtu.be/i9H7ZKpe2EM",
+                "tags": ["サザン", "追いコン", "2026", "3/12"]
+            }
+        ]
+    },
+    {
+        "slug": "202603-OIKON22-DAY4",
+        "title": "さらば22! 完全卒業ライブ「僕たち私たち、普通のバンドマンに戻ります」〜たつ鳥跡を刻み込むSP〜 DAY4",
+        "date": "2026-03-13",
+        "videos":[
+            {
+                "id": 1,
+                "title":"俺ん家レンジ",
+                "url":"https://youtu.be/Km97yxwmFSg",
+                "tags": ["俺ん家レンジ", "追いコン", "2026", "3/13"]
+            },
+            {
+                "id": 2,
+                "title":"サカバンバスピス",
+                "url":"https://youtu.be/dej_lbYejW0",
+                "tags": ["サカバンバスピス", "追いコン", "2026", "3/13"]
+            },
+            {
+                "id": 3,
+                "title":"04 Limeted Wabisabys",
+                "url":"https://youtu.be/FVxbikelwDA",
+                "tags": ["04 Limeted Wabisabys", "追いコン", "2026", "3/13"]
+            },
+            {
+                "id": 4,
+                "title":"the pillows",
+                "url":"https://youtu.be/yuR-hKHbGe0",
+                "tags": ["the pillows", "追いコン", "2026", "3/13"]
+            },
+            {
+                "id": 5,
+                "title":"チキチキばんばん",
+                "url":"https://youtu.be/S38wS4WWWkQ",
+                "tags": ["チキチキばんばん", "追いコン", "2026", "3/13"]
+            },
+            {
+                "id": 6,
+                "title":"DRAMA STORE",
+                "url":"https://youtu.be/tM_jly0_RHE",
+                "tags": ["DRAMA STORE", "追いコン", "2026", "3/13"]
+            },
+            {
+                "id": 7,
+                "title":"2人Gose house",
+                "url":"https://youtu.be/NK7idoQjrZc",
+                "tags": ["2人Gose house", "追いコン", "2026", "3/13"]
+            },
+            {
+                "id": 8,
+                "title":"相対性理論",
+                "url":"https://youtu.be/Y3UnUL1FhoI",
+                "tags": ["相対性理論", "追いコン", "2026", "3/13"]
+            },
+            {
+                "id": 9,
+                "title":"赤い公園",
+                "url":"https://youtu.be/fFQBGSXL07g",
+                "tags": ["赤い公園", "追いコン", "2026", "3/13"]
+            },
+            {
+                "id": 10,
+                "title":"indigo",
+                "url":"https://youtu.be/ulsWlTEopJ0",
+                "tags": ["indigo", "追いコン", "2026", "3/13"]
+            },
+            {
+                "id": 11,
+                "title":"クリープ",
+                "url":"https://youtu.be/Fuz4qhLyriM",
+                "tags": ["クリープ", "追いコン", "2026", "3/13"]
+            },
+            {
+                "id": 12,
+                "title":"SPYAIR",
+                "url":"https://youtu.be/rqriV2OZOG4",
+                "tags": ["SPYAIR", "追いコン", "2026", "3/13"]
+            },
+            {
+                "id": 13,
+                "title":"WOMCADOLE",
+                "url":"https://youtu.be/gDKjnMp4wC8",
+                "tags": ["WOMCADOLE", "追いコン", "2026", "3/13"]
+            },
+            {
+                "id": 14,
+                "title":"MAGURO",
+                "url":"https://youtu.be/oAvAqPl3kvc",
+                "tags": ["MAGURO", "追いコン", "2026", "3/13"]
+            },
+            {
+                "id": 15,
+                "title":"バーンナウト",
+                "url":"https://youtu.be/xhdeobcMuRY",
+                "tags": ["バーンナウト", "追いコン", "2026", "3/13"]
+            },
+            {
+                "id": 16,
+                "title":"oral",
+                "url":"https://youtu.be/p_MmcX1Ss7s",
+                "tags": ["oral", "追いコン", "2026", "3/13"]
+            },
+            {
+                "id": 17,
+                "title":"LSD",
+                "url":"https://youtu.be/x7YoZOO0udU",
+                "tags": ["LSD", "追いコン", "2026", "3/13"]
+            }
+        ]
+    },
+    {
+        "slug": "202603-OIKON22-DAY5",
+        "title": "さらば22! 完全卒業ライブ「僕たち私たち、普通のバンドマンに戻ります」〜たつ鳥跡を刻み込むSP〜 DAY5",
+        "date": "2026-03-14",
+        "videos":[
+            {
+                "id": 1,
+                "title":"PAFFIE",
+                "url":"https://youtu.be/qN1TptH8eik",
+                "tags": ["PAFFIE", "追いコン", "2026", "3/14"]
+            },
+            {
+                "id": 2,
+                "title":"MIOYAMAZAKI",
+                "url":"https://youtu.be/Dg5AoqS7gi0",
+                "tags": ["MIOYAMAZAKI", "追いコン", "2026", "3/14"]
+            },
+            {
+                "id": 3,
+                "title":"19サイサイ",
+                "url":"https://youtu.be/hiCkSFFJUp8",
+                "tags": ["19サイサイ", "追いコン", "2026", "3/14"]
+            },
+            {
+                "id": 4,
+                "title":"sumika",
+                "url":"https://youtu.be/L5Tt9YRoVMI",
+                "tags": ["sumika", "追いコン", "2026", "3/14"]
+            },
+            {
+                "id": 5,
+                "title":"タイニーデイサーカス",
+                "url":"https://youtu.be/uTGK_P7MiQs",
+                "tags": ["タイニーデイサーカス", "追いコン", "2026", "3/14"]
+            },
+            {
+                "id": 6,
+                "title":"くるり",
+                "url":"https://youtu.be/VC-d_Y_VS4Q",
+                "tags": ["くるり", "追いコン", "2026", "3/14"]
+            },
+            {
+                "id": 7,
+                "title":"阿蘇ファブリック",
+                "url":"https://youtu.be/4FZT4YhfKc4",
+                "tags": ["阿蘇ファブリック", "追いコン", "2026", "3/14"]
+            },
+            {
+                "id": 8,
+                "title":"Count Up!",
+                "url":"https://youtu.be/6Y9qRqWEFZQ",
+                "tags": ["Count Up!", "追いコン", "2026", "3/14"]
+            },
+            {
+                "id": 9,
+                "title":"Mrs.GRANNY SMITH フェーズ３",
+                "url":"https://youtu.be/f8c_fbooR98",
+                "tags": ["Mrs.GRANNY SMITH フェーズ３", "追いコン", "2026", "3/14"]
+            },
+            {
+                "id": 10,
+                "title":"ぺどろ",
+                "url":"https://youtu.be/E1G8xyVUb2I",
+                "tags": ["ぺどろ", "追いコン", "2026", "3/14"]
+            },
+            {
+                "id": 11,
+                "title":"トゲアリトゲナシトゲトゲ",
+                "url":"https://youtu.be/Y0zGa6ejp-w",
+                "tags": ["トゲアリトゲナシトゲトゲ", "追いコン", "2026", "3/14"]
+            },
+            {
+                "id": 12,
+                "title":"おいしくる",
+                "url":"https://youtu.be/CS8TakTlCrk",
+                "tags": ["おいしくる", "追いコン", "2026", "3/14"]
+            },
+            {
+                "id": 13,
+                "title":"×とメメメ",
+                "url":"https://youtu.be/E6mgONSirDw",
+                "tags": ["×とメメメ", "追いコン", "2026", "3/14"]
+            },
+            {
+                "id": 14,
+                "title":"竹村桜介",
+                "url":"https://youtu.be/jJiApYTxBd4",
+                "tags": ["竹村桜介", "追いコン", "2026", "3/14"]
+            }
+        ]
+    },
+    {
+        "slug": "202608-OBOG-DAY1",
+        "title": "202608 OBOG DAY1",
+        "date": "2026-08-22",
         "videos": [
             {
                 "id": 1,
@@ -21,12 +788,30 @@
                 "title":"Age Factoryと感覚ピエロ",
                 "url":"https://youtu.be/kHHyvJxylk8?si=pbWK3itAoL13uCKF",
                 "tags": ["Age Factory", "感覚ピエロ", "OBOG", "2026", "8/22"]
+            },
+            {
+                "id": 4,
+                "title":"友達11年目",
+                "url":"https://youtu.be/KrneXSoYQ44?si=sRC3JZ1vYHULcrDw",
+                "tags": ["友達11年目", "OBOG", "2026", "8/22"]
+            },
+                        {
+                "id": 5,
+                "title":"THE EDGW CIGARETTES",
+                "url":"https://youtu.be/P88VSOw73ZE?si=-cTpAWw5QEvnDou2",
+                "tags": ["THE EDGW CIGARETTES","オーラル", "OBOG", "2026", "8/22"]
+            },
+                        {
+                "id": 6,
+                "title":"ネクライドーキー",
+                "url":"https://youtu.be/45KHg-ylrUA?si=rPzAFUnQhqjTtzMn",
+                "tags": ["", "OBOG", "2026", "8/22"]
             }
         ]
     },
     {
-        "slug": "2026-OBOG-DAY2",
-        "title": "2026 OBOG DAY2",
+        "slug": "202608-OBOG-DAY2",
+        "title": "202608 OBOG DAY2",
         "date": "2026-08-23",
         "videos": [
             {
@@ -46,6 +831,41 @@
                 "title":"なきごと",
                 "url":"https://youtu.be/0l3ZKAEQQi8",
                 "tags": ["なきごと", "OBOG", "2026", "8/23"]
+            },
+            {
+                "id": 4,
+                "title":"ほばかま",
+                "url":"https://youtu.be/g21yuuCEEo0",
+                "tags": ["ほばかま", "OBOG", "2026", "8/23"]
+            },
+            {
+                "id": 5,
+                "title":"チャッソモンチー",
+                "url":"https://youtu.be/QCmlP_F9Jrc",
+                "tags": ["チャッソモンチー", "OBOG", "2026", "8/23"]
+            },
+            {
+                "id": 6,
+                "title":"2人竹村ショウ",
+                "url":"https://youtu.be/saGX8fWr3CI",
+                "tags": ["2人竹村ショウ", "OBOG", "2026", "8/23"]
+            },
+            {
+                "id": 7,
+                "title":"ユニゾン活休しないで",
+                "url":"https://youtu.be/j-mYEVYNZJ8",
+                "tags": ["ユニゾン活休しないで", "OBOG", "2026", "8/23"]
+            },
+            {
+                "id": 8,
+                "title":"ヨルシカやろ♡",
+                "url":"https://youtu.be/M9Airmbq02I",
+                "tags": ["ヨルシカやろ♡", "OBOG", "2026", "8/23"]
+            },
+            {
+                "id": 9,
+                "title":"秋山黄色-動画準備中",
+                "tags": ["OBOG", "2026", "8/23"]
             }
         ]
     }
