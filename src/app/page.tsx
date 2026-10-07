@@ -1,29 +1,15 @@
 import Container from "@/app/_components/container";
-import { HeroPost } from "@/app/_components/hero-post";
-import { Intro } from "@/app/_components/intro";
-import { MoreStories } from "@/app/_components/more-stories";
-import { getAllPosts } from "@/lib/api";
+import{ LiveList } from "@/app/_components/live-list";
+import lives from "@/data/lives.json";
 
-export default function Index() {
-  const allPosts = getAllPosts();
-
-  const heroPost = allPosts[0];
-
-  const morePosts = allPosts.slice(1);
+export default function index() {
+  const sorted = [...lives].sort((a, b) => (a.date > b.date ? -1 : 1));
 
   return (
     <main>
       <Container>
-        <Intro />
-        <HeroPost
-          title={heroPost.title}
-          coverImage={heroPost.coverImage}
-          date={heroPost.date}
-          author={heroPost.author}
-          slug={heroPost.slug}
-          excerpt={heroPost.excerpt}
-        />
-        {morePosts.length > 0 && <MoreStories posts={morePosts} />}
+        <h1 className="my-12 text-4x1 font-bold">FSD ライブ動画</h1>
+        <LiveList lives={sorted} />
       </Container>
     </main>
   );

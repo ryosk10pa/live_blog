@@ -1,0 +1,53 @@
+[
+    {
+        "slug": "2026-OBOG-DAY1",
+        "title": "2026 OBOG DAY1",
+        "date": "2026-06-22",
+        "videos": [
+            {
+                "id": 1,
+                "title":"週末、羊",
+                "url":"https://youtu.be/s76R8lowOfE?si=xdYt-3Ug2i6ssmqS",
+                "tags": ["羊", "週末", "OBOG", "2026", "8/22"]
+            },
+            {
+                "id": 2,
+                "title":"フォー好きもっと食べたいズ",
+                "url":"https://youtu.be/zXzdx6IbyoU?si=J4ey0JBusQeVhe4O",
+                "tags": ["フォー好きもっと食べたいズ", "フォーリミ", "OBOG", "2026", "8/22"]
+            },
+            {
+                "id": 3,
+                "title":"Age Factoryと感覚ピエロ",
+                "url":"https://youtu.be/kHHyvJxylk8?si=pbWK3itAoL13uCKF",
+                "tags": ["Age Factory", "感覚ピエロ", "OBOG", "2026", "8/22"]
+            }
+        ]
+    },
+    {
+        "slug": "2026-OBOG-DAY2",
+        "title": "2026 OBOG DAY2",
+        "date": "2026-08-23",
+        "videos": [
+            {
+                "id": 1,
+                "title":"チェロ弾きます",
+                "url":"https://youtu.be/s7Qt3Yar5Tg",
+                "tags": ["チェロ", "弾きます", "OBOG", "2026", "8/23"]
+            },
+            {
+                "id": 2,
+                "title":"アニポケやりたい",
+                "url":"https://youtu.be/BU6GDvF5oJ0",
+                "tags": ["アニポケ", "やりたい", "OBOG", "2026", "8/23"]
+            },
+            {
+                "id": 3,
+                "title":"なきごと",
+                "url":"https://youtu.be/0l3ZKAEQQi8",
+                "tags": ["なきごと", "OBOG", "2026", "8/23"]
+            }
+        ]
+    }
+
+]
