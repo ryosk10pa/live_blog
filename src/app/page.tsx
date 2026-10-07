@@ -8,7 +8,20 @@ export default function index() {
   return (
     <main>
       <Container>
-        <h1 className="my-12 text-4x1 font-bold">FSD ライブ動画</h1>
+        <div className="my-8 flex flex-col gap-2 sm:my-12 sm:flex-row sm:items-center
+        sm:justify-between">
+          <h1 className="text-2xl font-bold sm:text-5xl">FSD ライブ動画</h1>
+        <a
+          href="https://forksonglive-haisin.amebaownd.com/"
+          target="_blank"
+          rel="noreferrer"
+          className="text-sm underline hover:text-blue-600 sm:text-base"
+          >
+            {"FSD配信がかり's Ownd はこちら"}
+          </a>
+
+        </div>
+
         <LiveList lives={sorted} />
       </Container>
     </main>
