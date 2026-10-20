@@ -182,92 +182,92 @@
         "title":"202107 手刀ライブ DAY2",
         "date":"2021-07-04",
         "videos":[
-  {
-    "id": 1,
-    "title": "寄せ鍋",
-    "url": "https://youtu.be/_N7ViK96i98",
-    "tags": ["寄せ鍋", "手刀", "2021", "7/4"]
-  },
-  {
-    "id": 2,
-    "title": "UNISON SQUARE GARDEN",
-    "url": "https://youtu.be/GR9-A0-xRmM",
-    "tags": ["UNISON SQUARE GARDEN", "手刀", "2021", "7/4"]
-  },
-  {
-    "id": 3,
-    "title": "Ashのコピバン",
-    "url": "https://youtu.be/ReT6UqDoSAc",
-    "tags": ["Ashのコピバン", "手刀", "2021", "7/4"]
-  },
-  {
-    "id": 4,
-    "title": "20バンド(Vo.大髙)",
-    "url": "https://youtu.be/vDqS98m-JbY",
-    "tags": ["20バンド(Vo.大髙)", "手刀", "2021", "7/4"]
-  },
-  {
-    "id": 5,
-    "title": "こんにゃくボンバー",
-    "url": "https://youtu.be/TRFYxW9RdFM",
-    "tags": ["こんにゃくボンバー", "手刀", "2021", "7/4"]
-  },
-  {
-    "id": 6,
-    "title": "坂元の白灰",
-    "url": "https://youtu.be/_2PF70x0_LY",
-    "tags": ["坂元の白灰", "手刀", "2021", "7/4"]
-  },
-  {
-    "id": 7,
-    "title": "はんぷばっく",
-    "url": "https://youtu.be/8M82ZaV1lfo",
-    "tags": ["はんぷばっく", "手刀", "2021", "7/4"]
-  },
-  {
-    "id": 8,
-    "title": "20バンド(Vo.旭)",
-    "url": "https://youtu.be/DOn-FAjXpII",
-    "tags": ["20バンド(Vo.旭)", "手刀", "2021", "7/4"]
-  },
-  {
-    "id": 9,
-    "title": "ストロオオングキス",
-    "url": "https://youtu.be/wTf087rAQvA",
-    "tags": ["ストロオオングキス", "手刀", "2021", "7/4"]
-  },
-  {
-    "id": 10,
-    "title": "Hakubiやるバンド",
-    "url": "https://youtu.be/OrnYaklLYmA",
-    "tags": ["Hakubiやるバンド", "手刀", "2021", "7/4"]
-  },
-  {
-    "id": 11,
-    "title": "♡エヴァンド♡",
-    "url": "https://youtu.be/iwFasizP5oQ",
-    "tags": ["♡エヴァンド♡", "手刀", "2021", "7/4"]
-  },
-  {
-    "id": 12,
-    "title": "定例アニソン!2021",
-    "url": "https://youtu.be/vBbH9mGUa4U",
-    "tags": ["定例アニソン!2021", "手刀", "2021", "7/4"]
-  },
-  {
-    "id": 13,
-    "title": "JUDY AND MARY",
-    "url": "https://youtu.be/QU7NEYwesms",
-    "tags": ["JUDY AND MARY", "手刀", "2021", "7/4"]
-  },
-  {
-    "id": 14,
-    "title": "THE ORAL CIGARETTES",
-    "url": "https://youtu.be/qMcH7LNv0Us",
-    "tags": ["THE ORAL CIGARETTES", "手刀", "2021", "7/4"]
-  }
-        ]
-    },
+        {
+            "id": 1,
+            "title": "寄せ鍋",
+            "url": "https://youtu.be/_N7ViK96i98",
+            "tags": ["寄せ鍋", "手刀", "2021", "7/4"]
+        },
+        {
+            "id": 2,
+            "title": "UNISON SQUARE GARDEN",
+            "url": "https://youtu.be/GR9-A0-xRmM",
+            "tags": ["UNISON SQUARE GARDEN", "手刀", "2021", "7/4"]
+        },
+        {
+            "id": 3,
+            "title": "Ashのコピバン",
+            "url": "https://youtu.be/ReT6UqDoSAc",
+            "tags": ["Ashのコピバン", "手刀", "2021", "7/4"]
+        },
+        {
+            "id": 4,
+            "title": "20バンド(Vo.大髙)",
+            "url": "https://youtu.be/vDqS98m-JbY",
+            "tags": ["20バンド(Vo.大髙)", "手刀", "2021", "7/4"]
+        },
+        {
+            "id": 5,
+            "title": "こんにゃくボンバー",
+            "url": "https://youtu.be/TRFYxW9RdFM",
+            "tags": ["こんにゃくボンバー", "手刀", "2021", "7/4"]
+        },
+        {
+            "id": 6,
+            "title": "坂元の白灰",
+            "url": "https://youtu.be/_2PF70x0_LY",
+            "tags": ["坂元の白灰", "手刀", "2021", "7/4"]
+        },
+        {
+            "id": 7,
+            "title": "はんぷばっく",
+            "url": "https://youtu.be/8M82ZaV1lfo",
+            "tags": ["はんぷばっく", "手刀", "2021", "7/4"]
+        },
+        {
+            "id": 8,
+            "title": "20バンド(Vo.旭)",
+            "url": "https://youtu.be/DOn-FAjXpII",
+            "tags": ["20バンド(Vo.旭)", "手刀", "2021", "7/4"]
+        },
+        {
+            "id": 9,
+            "title": "ストロオオングキス",
+            "url": "https://youtu.be/wTf087rAQvA",
+            "tags": ["ストロオオングキス", "手刀", "2021", "7/4"]
+        },
+        {
+            "id": 10,
+            "title": "Hakubiやるバンド",
+            "url": "https://youtu.be/OrnYaklLYmA",
+            "tags": ["Hakubiやるバンド", "手刀", "2021", "7/4"]
+        },
+        {
+            "id": 11,
+            "title": "♡エヴァンド♡",
+            "url": "https://youtu.be/iwFasizP5oQ",
+            "tags": ["♡エヴァンド♡", "手刀", "2021", "7/4"]
+        },
+        {
+            "id": 12,
+            "title": "定例アニソン!2021",
+            "url": "https://youtu.be/vBbH9mGUa4U",
+            "tags": ["定例アニソン!2021", "手刀", "2021", "7/4"]
+        },
+        {
+            "id": 13,
+            "title": "JUDY AND MARY",
+            "url": "https://youtu.be/QU7NEYwesms",
+            "tags": ["JUDY AND MARY", "手刀", "2021", "7/4"]
+        },
+        {
+            "id": 14,
+            "title": "THE ORAL CIGARETTES",
+            "url": "https://youtu.be/qMcH7LNv0Us",
+            "tags": ["THE ORAL CIGARETTES", "手刀", "2021", "7/4"]
+        }
+                ]
+            },
     {
         "slug": "202111-TEIREI-DAY1",
         "title":"202111 定例ライブ DAY1",
@@ -3939,7 +3939,650 @@
         }
         ]       
         },
-
+        {
+            "slug": "202404-SHINKAN-DAY1", 
+            "title": "202404 新歓ライブ DAY1",
+            "date": "2024-04-23",
+            "videos":[
+            {
+                "id": 1,
+                "title": "マカロニショータ",
+                "url": "https://youtu.be/msEPturA2Rc?si=JehXswsVv2REwhWh",
+                "tags": ["マカロニショータ", "新歓", "2024", "4/23"]
+            },
+            {
+                "id": 2,
+                "title": "SHIMOSHIMO",
+                "url": "https://youtu.be/FVHqIAnCrgk?si=UAlvGFjT_6o1sEMN",
+                "tags": ["SHIMOSHIMO", "新歓", "2024", "4/23"]
+            },
+            {
+                "id": 3,
+                "title": "SHIMOSHIMO（携帯）",
+                "url": "https://youtu.be/FjDNQaWPQ74?si=lVczrTvmqwn908js",
+                "tags": ["SHIMOSHIMO（携帯）", "新歓", "2024", "4/23"]
+            },
+            {
+                "id": 4,
+                "title": "With Mom's",
+                "url": "https://youtu.be/gCOPDCV0Wp4?si=JiH_I38RAw7NNLa7",
+                "tags": ["With Mom's", "新歓", "2024", "4/23"]
+            },
+            {
+                "id": 5,
+                "title": "With Mom's（携帯）",
+                "url": "",
+                "tags": ["With Mom's（携帯）", "新歓", "2024", "4/23"]
+            },
+            {
+                "id": 6,
+                "title": "リーガルリリー",
+                "url": "https://youtu.be/fzc6NdD83jM?si=z6KSjWWixs-UmwIy",
+                "tags": ["リーガルリリー", "新歓", "2024", "4/23"]
+            },
+            {
+                "id": 7,
+                "title": "リーガルリリー（携帯）",
+                "url": "https://youtu.be/NVuP9vs2U7Q?si=ugpUmpDfz9cXKvkf",
+                "tags": ["リーガルリリー（携帯）", "新歓", "2024", "4/23"]
+            },
+            {
+                "id": 8,
+                "title": "2人Goosehouse",
+                "url": "https://youtu.be/FApo9zh5Scs?si=A3RYqfKlta3Xs34N",
+                "tags": ["2人Goosehouse", "新歓", "2024", "4/23"]
+            }
+            ]
+        },
+          {
+            "slug": "202404-SHINKAN-DAY2", 
+            "title": "202404 新歓ライブ DAY2",
+            "date": "2024-04-27",
+            "videos":[
+        {
+            "id": 1,
+            "title": "フードゥーユーラブ",
+            "url": "https://youtu.be/7hhqCg3ssvs?si=FgkzdF-h2gd-C3og",
+            "tags": ["フードゥーユーラブ", "新歓", "2024", "4/27"]
+        },
+        {
+            "id": 2,
+            "title": "女王蜂",
+            "url": "https://youtu.be/xpqmynQnlU4?si=c-DLxGcLviIdys2T",
+            "tags": ["女王蜂", "新歓", "2024", "4/27"]
+        },
+        {
+            "id": 3,
+            "title": "マキシマムザホルモン",
+            "url": "https://youtu.be/y-H0SZ5SvNg?si=-Tuvh9jH-x-q8mvl",
+            "tags": ["マキシマムザホルモン", "新歓", "2024", "4/27"]
+        },
+        {
+            "id": 4,
+            "title": "PEDRO",
+            "url": "https://youtu.be/0wz_HEZLrY0?si=Mwf8DrB3KxEMJK_q",
+            "tags": ["PEDRO", "新歓", "2024", "4/27"]
+        },
+        {
+            "id": 5,
+            "title": "ME SO SHE LOOSE",
+            "url": "https://youtu.be/zA9M2E_vRWw?si=rSXI1OM7vGL1QfjY",
+            "tags": ["ME SO SHE LOOSE", "新歓", "2024", "4/27"]
+        },
+        {
+            "id": 6,
+            "title": "Laughing Hick",
+            "url": "https://youtu.be/b_PoDue_aoU?si=LbJK0iZ3NYg2TNpk",
+            "tags": ["Laughing Hick", "新歓", "2024", "4/27"]
+        },
+        {
+            "id": 7,
+            "title": "おいしくる",
+            "url": "https://youtu.be/VB9lRms0tFo?si=Erlt4fFW0DHqvbYK",
+            "tags": ["おいしくる", "新歓", "2024", "4/27"]
+        }
+        ]
+          },
+           {
+            "slug": "202404-SHINKAN-DAY3", 
+            "title": "202404 新歓ライブ DAY3",
+            "date": "2024-04-28",
+            "videos":[
+            {
+                "id": 1,
+                "title": "MIOYAMAZAKI",
+                "url": "https://youtu.be/GqCfqgDIrck?si=pff3z8SrE4o-cAff",
+                "tags": ["MIOYAMAZAKI", "新歓", "2024", "4/28"]
+            },
+            {
+                "id": 2,
+                "title": "DECO*27",
+                "url": "https://youtu.be/SLLTbvraAcE?si=Ssqkl9wBSuPWKHiI",
+                "tags": ["DECO*27", "新歓", "2024", "4/28"]
+            },
+            {
+                "id": 3,
+                "title": "The オールドファッション",
+                "url": "https://youtu.be/VLWziohvBgo?si=BBlxkUwjv1ijvRwm",
+                "tags": ["The オールドファッション", "新歓", "2024", "4/28"]
+            },
+            {
+                "id": 4,
+                "title": "ブランデー",
+                "url": "https://youtu.be/5UNlOVtQYHw?si=gLpVFLB4In1c7J8R",
+                "tags": ["ブランデー", "新歓", "2024", "4/28"]
+            },
+            {
+                "id": 5,
+                "title": "プロジェクト巣鴨",
+                "url": "https://youtu.be/2iL6h8Yvlkg?si=-dObEXv0h7XuXU_Z",
+                "tags": ["プロジェクト巣鴨", "新歓", "2024", "4/28"]
+            },
+            {
+                "id": 6,
+                "title": "おやすみ、ペネロペ",
+                "url": "https://youtu.be/F6pHSiSKJ0o?si=F9GC1Ns6TtmE736I",
+                "tags": ["おやすみ、ペネロペ", "新歓", "2024", "4/28"]
+            },
+            {
+                "id": 7,
+                "title": "PACIFICA",
+                "url": "https://youtu.be/PxQQD71l1PU?si=Xj5LF4ik0EC-Yele",
+                "tags": ["PACIFICA", "新歓", "2024", "4/28"]
+            },
+            {
+                "id": 8,
+                "title": "びっくりドンキー",
+                "url": "https://youtu.be/6O3P2fzKdy4?si=vYarmoGvqytYpVmZ",
+                "tags": ["びっくりドンキー", "新歓", "2024", "4/28"]
+            },
+            {
+                "id": 9,
+                "title": "×とメメメ。",
+                "url": "https://youtu.be/y7pRNwh922M?si=17O_g_flGycDvPh8",
+                "tags": ["×とメメメ。", "新歓", "2024", "4/28"]
+            }
+            ]
+           },
+           {
+            "slug": "202404-SHINKAN-DAY4",
+            "title": "202405 新歓ライブ DAY4",
+            "date": "2024-05",
+            "videos": [
+            {
+                "id": 1,
+                "title": "ほぼガールズバンド",
+                "url": "https://youtu.be/1IkwX_CnHC0?si=C5bIBeLavz22znf4",
+                "tags": ["ほぼガールズバンド", "新歓", "2024", "5/8"]
+            },
+            {
+                "id": 2,
+                "title": "CHIGYO",
+                "url": "https://youtu.be/l7jNPuBtKUI?si=SqHKW-YjNx926JeO",
+                "tags": ["CHIGYO", "新歓", "2024", "5/8"]
+            },
+            {
+                "id": 3,
+                "title": "V系セッション",
+                "url": "https://youtu.be/CAjDVIfNhFc?si=4UAmDwwa5v9hyB3v",
+                "tags": ["V系セッション", "新歓", "2024", "5/8"]
+            },
+            {
+                "id": 4,
+                "title": "サンマシスター",
+                "url": "https://youtu.be/uuVU_eTpgGM?si=u-fBLrFQcaB7D8Vt",
+                "tags": ["サンマシスター", "新歓", "2024", "5/8"]
+            },
+            {
+                "id": 5,
+                "title": "貧血少女",
+                "url": "https://youtu.be/eYqFWrW6CjI?si=T-Mip5Wo5KQgM7ht",
+                "tags": ["貧血少女", "新歓", "2024", "5/8"]
+            },
+            {
+                "id": 6,
+                "title": "あいすたべたべさーくる",
+                "url": "https://youtu.be/kHJntXMZ0h8?si=-KWcSOCs4XUXyuE6",
+                "tags": ["あいすたべたべさーくる", "新歓", "2024", "5/8"]
+            }
+            ]
+           },
+           {
+            "slug": "202406-GAKUSAI-DAY1",
+            "title": "202406 学祭ライブ DAY1",
+            "date": "2024-06-8",
+            "videos":[
+            {
+                "id": 1,
+                "title": "町民グランプリ",
+                "url": "https://youtu.be/_GNajAQgleI",
+                "tags": ["町民グランプリ", "学祭ライブ", "2024", "6/8"]
+            },
+            {
+                "id": 2,
+                "title": "サザンオールスターズ応援団",
+                "url": "https://youtu.be/I1vCrSCliHA",
+                "tags": ["サザンオールスターズ応援団", "学祭ライブ", "2024", "6/8"]
+            },
+            {
+                "id": 3,
+                "title": "CHIGYO",
+                "url": "https://youtu.be/5KCxCvs7x68",
+                "tags": ["CHIGYO", "学祭ライブ", "2024", "6/8"]
+            },
+            {
+                "id": 4,
+                "title": "軽音楽部裏切り同好会",
+                "url": "https://youtu.be/K_kd04l5RgU",
+                "tags": ["軽音楽部裏切り同好会", "学祭ライブ", "2024", "6/8"]
+            },
+            {
+                "id": 5,
+                "title": "Harunosuke Kato",
+                "url": "https://youtu.be/-WzgkRZW1w0",
+                "tags": ["Harunosuke Kato", "学祭ライブ", "2024", "6/8"]
+            },
+            {
+                "id": 6,
+                "title": "羊文学",
+                "url": "https://youtu.be/K1yRrrojIcs",
+                "tags": ["羊文学", "学祭ライブ", "2024", "6/8"]
+            },
+            {
+                "id": 7,
+                "title": "タイニーデイサーカス",
+                "url": "https://youtu.be/_eSSldYzzSU",
+                "tags": ["タイニーデイサーカス", "学祭ライブ", "2024", "6/8"]
+            },
+            {
+                "id": 8,
+                "title": "びっくりドンキー",
+                "url": "https://youtu.be/gYcyGCoMZSo",
+                "tags": ["びっくりドンキー", "学祭ライブ", "2024", "6/8"]
+            },
+            {
+                "id": 9,
+                "title": "tricot",
+                "url": "https://youtu.be/ty2I2DCCqPY",
+                "tags": ["tricot", "学祭ライブ", "2024", "6/8"]
+            },
+            {
+                "id": 10,
+                "title": "tricot（携帯カメラ）",
+                "url": "https://youtu.be/IL0xBsJNyrU",
+                "tags": ["tricot（携帯カメラ）", "学祭ライブ", "2024", "6/8"]
+            },
+            {
+                "id": 11,
+                "title": "クリームバイブ",
+                "url": "https://youtu.be/8xItRTrt3DA",
+                "tags": ["クリームバイブ", "学祭ライブ", "2024", "6/8"]
+            },
+            {
+                "id": 12,
+                "title": "クリームバイブ（携帯カメラ）",
+                "url": "https://youtu.be/o1dFk-1lL5U",
+                "tags": ["クリームバイブ（携帯カメラ）", "学祭ライブ", "2024", "6/8"]
+            },
+            {
+                "id": 13,
+                "title": "Mrs.GRANNY SMITH",
+                "url": "https://youtu.be/ZoE2-A2IzHo",
+                "tags": ["Mrs.GRANNY SMITH", "学祭ライブ", "2024", "6/8"]
+            },
+            {
+                "id": 14,
+                "title": "ミオヤマザキ",
+                "url": "https://youtu.be/B_7Tw4iBJWM",
+                "tags": ["ミオヤマザキ", "学祭ライブ", "2024", "6/8"]
+            },
+            {
+                "id": 15,
+                "title": "トゲアリトゲナシトゲトゲ",
+                "url": "https://youtu.be/D73x9LU6eaY",
+                "tags": ["トゲアリトゲナシトゲトゲ", "学祭ライブ", "2024", "6/8"]
+            },
+            {
+                "id": 16,
+                "title": "トゲアリトゲナシトゲトゲ（携帯カメラ）",
+                "url": "https://youtu.be/wZtwGkjE6r4",
+                "tags": ["トゲアリトゲナシトゲトゲ（携帯カメラ）", "学祭ライブ", "2024", "6/8"]
+            },
+            {
+                "id": 17,
+                "title": "サイサイ",
+                "url": "https://youtu.be/I_Rx6VAqsxk",
+                "tags": ["サイサイ", "学祭ライブ", "2024", "6/8"]
+            }
+            ]
+           },
+           {
+            "slug": "202406-GAKUSAI-DAY2",
+            "title": "202406 学祭ライブ DAY2",
+            "date": "2024-06-09",
+            "videos":[
+            {
+                "id": 1,
+                "title": "チャッソモンチー",
+                "url": "https://youtu.be/BLex5CT5QYE",
+                "tags": ["チャッソモンチー", "学祭ライブ", "2024", "6/9"]
+            },
+            {
+                "id": 2,
+                "title": "ブランデー戦記",
+                "url": "https://youtu.be/Zol4jnDZWWg",
+                "tags": ["ブランデー戦記", "学祭ライブ", "2024", "6/9"]
+            },
+            {
+                "id": 3,
+                "title": "tomo",
+                "url": "https://youtu.be/XmcfAEq-vhE",
+                "tags": ["tomo", "学祭ライブ", "2024", "6/9"]
+            },
+            {
+                "id": 4,
+                "title": "響文学",
+                "url": "https://youtu.be/pGhpWRUZ60o",
+                "tags": ["響文学", "学祭ライブ", "2024", "6/9"]
+            },
+            {
+                "id": 5,
+                "title": "ザ・疲労ズ",
+                "url": "https://youtu.be/J_gnDr1FMZE",
+                "tags": ["ザ・疲労ズ", "学祭ライブ", "2024", "6/9"]
+            },
+            {
+                "id": 6,
+                "title": "フラワーカンパニー",
+                "url": "https://youtu.be/Wb3uDTY4tXA",
+                "tags": ["フラワーカンパニー", "学祭ライブ", "2024", "6/9"]
+            },
+            {
+                "id": 7,
+                "title": "おやすみ、ペネロペ",
+                "url": "https://youtu.be/ANiXhiIech4",
+                "tags": ["おやすみ、ペネロペ", "学祭ライブ", "2024", "6/9"]
+            },
+            {
+                "id": 8,
+                "title": "APOROGY",
+                "url": "https://youtu.be/pKk-hoMmtRU",
+                "tags": ["APOROGY", "学祭ライブ", "2024", "6/9"]
+            },
+            {
+                "id": 9,
+                "title": "APOROGY（携帯カメラ）",
+                "url": "https://youtu.be/2Q3JvMBXRmw",
+                "tags": ["APOROGY（携帯カメラ）", "学祭ライブ", "2024", "6/9"]
+            },
+            {
+                "id": 10,
+                "title": "35.7",
+                "url": "https://youtu.be/kSi6n3sBU-k",
+                "tags": ["35.7", "学祭ライブ", "2024", "6/9"]
+            },
+            {
+                "id": 11,
+                "title": "Quote",
+                "url": "https://youtu.be/UtUoM5c6tQ0",
+                "tags": ["Quote", "学祭ライブ", "2024", "6/9"]
+            },
+            {
+                "id": 12,
+                "title": "ヨルシカ",
+                "url": "https://youtu.be/qZfdbc5ByJo",
+                "tags": ["ヨルシカ", "学祭ライブ", "2024", "6/9"]
+            },
+            {
+                "id": 13,
+                "title": "カゲプロ",
+                "url": "https://youtu.be/TiRbZKokO40",
+                "tags": ["カゲプロ", "学祭ライブ", "2024", "6/9"]
+            },
+            {
+                "id": 14,
+                "title": "×とメメメ。",
+                "url": "https://youtu.be/cAWgmwDeXuk",
+                "tags": ["×とメメメ。", "学祭ライブ", "2024", "6/9"]
+            },
+            {
+                "id": 15,
+                "title": "ASIAN CHISATO GENERATION",
+                "url": "https://youtu.be/SHHkIZ88lBM",
+                "tags": ["ASIAN CHISATO GENERATION", "学祭ライブ", "2024", "6/9"]
+            }
+            ]
+           },
+           {
+            "slug": "202409-GASSHUKU-DAY1",
+            "title": "202409 合宿ライブ DAY1",
+            "date": "2024-09-04",
+            "videos":[
+            {
+                "id": 1,
+                "title": "ぺどろ",
+                "url": "https://youtu.be/4ZswFZyz3E8?si=20ugwCCmfts973Y4",
+                "tags": ["ぺどろ", "合宿", "2024", "9/4"]
+            },
+            {
+                "id": 2,
+                "title": "シャッフルバンド",
+                "url": "https://youtu.be/uZDOOu03y-4?si=bLSVm37eHiubgmYv",
+                "tags": ["シャッフルバンド", "合宿", "2024", "9/4"]
+            },
+            {
+                "id": 3,
+                "title": "ひとで海遊日記",
+                "url": "https://youtu.be/Kn2WbwNHdmc?si=j46ZZYlCUTOUxNkR",
+                "tags": ["ひとで海遊日記", "合宿", "2024", "9/4"]
+            },
+            {
+                "id": 4,
+                "title": "V系セッション",
+                "url": "https://youtu.be/AFZG01QnUJw?si=vMOiyYyjLjO087FX",
+                "tags": ["V系セッション", "合宿", "2024", "9/4"]
+            },
+            {
+                "id": 5,
+                "title": "ASIAN CHISATO GENERATION",
+                "url": "https://youtu.be/6IQWWk4MHlc?si=NfMygp9Ds8QJhrEg",
+                "tags": ["ASIAN CHISATO GENERATION", "合宿", "2024", "9/4"]
+            },
+            {
+                "id": 6,
+                "title": "合宿あまってちゃん",
+                "url": "https://youtu.be/B396QXGR1u8?si=7MjgdGp2nm4DYgu3",
+                "tags": ["合宿あまってちゃん", "合宿", "2024", "9/4"]
+            },
+            {
+                "id": 7,
+                "title": "22学年バンド",
+                "url": "https://youtu.be/TI8yzMHzy1c?si=tGzNiXV7Rrz66sZc",
+                "tags": ["22学年バンド", "合宿", "2024", "9/4"]
+            },
+            {
+                "id": 8,
+                "title": "THE IQOS CIGARETTES",
+                "url": "https://youtu.be/jIMuVBBF6E8?si=18guV8hbDN_sJDD_",
+                "tags": ["THE IQOS CIGARETTES", "合宿", "2024", "9/4"]
+            },
+            {
+                "id": 9,
+                "title": "びっくりドンキー！",
+                "url": "https://youtu.be/XvBjLbA2iBc?si=N1cqVBudYSkc3h4R",
+                "tags": ["びっくりドンキー！", "合宿", "2024", "9/4"]
+            },
+            {
+                "id": 10,
+                "title": "あいすたべたべさーくる",
+                "url": "https://youtu.be/BZ4zjAu1bLg?si=ozJnJxoJQjb4j-tC",
+                "tags": ["あいすたべたべさーくる", "合宿", "2024", "9/4"]
+            },
+            {
+                "id": 11,
+                "title": "21女子♡わくわく♡お泊り会",
+                "url": "https://youtu.be/R_GKI0yIs10?si=dt52M65v9bGQGbmp",
+                "tags": ["21女子♡わくわく♡お泊り会", "合宿", "2024", "9/4"]
+            },
+            {
+                "id": 12,
+                "title": "21女子♡わくわく♡お泊り会（携帯カメラ）",
+                "url": "https://youtu.be/dnHsILL9iuo?si=99VacmPN_slkLVCE",
+                "tags": ["21女子♡わくわく♡お泊り会（携帯カメラ）", "合宿", "2024", "9/4"]
+            },
+            {
+                "id": 13,
+                "title": "23学年バンド",
+                "url": "https://youtu.be/eCMbeO-JZOs?si=Ww-CNPwmFLTk4VaD",
+                "tags": ["23学年バンド", "合宿", "2024", "9/4"]
+            },
+            {
+                "id": 14,
+                "title": "23学年バンド（携帯カメラ）",
+                "url": "https://youtu.be/yUfMkIQ-k3Y?si=tyLmHhyM5NT43i0Z",
+                "tags": ["23学年バンド（携帯カメラ）", "合宿", "2024", "9/4"]
+            },
+            {
+                "id": 15,
+                "title": "tacicana",
+                "url": "https://youtu.be/43xaaulrOys?si=XOLIfg2jRaURFtfI",
+                "tags": ["tacicana", "合宿", "2024", "9/4"]
+            },
+            {
+                "id": 16,
+                "title": "漢！祭祭！",
+                "url": "https://youtu.be/7HNOHLcnEiA?si=0Cofsp_SyMOxT4Wg",
+                "tags": ["漢！祭祭！", "合宿", "2024", "9/4"]
+            }
+            ]
+           },
+           {
+            "slug": "202409-GASSHUKU-DAY2",
+            "title":"202409 合宿ライブ DAY2",
+            "date":"2024-09-05",
+            "videos":[
+            {
+                "id": 1,
+                "title": "俺ん家レンジ",
+                "url": "https://youtu.be/9fHvMzMKU7o?si=bm43F3Od9psp0mOm",
+                "tags": ["俺ん家レンジ", "合宿", "2024", "9/5"]
+            },
+            {
+                "id": 2,
+                "title": "サイサイ",
+                "url": "https://youtu.be/fvjEKLd8imE?si=p_9GNGDfeQD_yqRR",
+                "tags": ["サイサイ", "合宿", "2024", "9/5"]
+            },
+            {
+                "id": 3,
+                "title": "L'Arc en Ciel",
+                "url": "https://youtu.be/_xLGn6VBhvM?si=hIVx-Dil_8Gc2q3b",
+                "tags": ["L'Arc en Ciel", "合宿", "2024", "9/5"]
+            },
+            {
+                "id": 4,
+                "title": "さば23",
+                "url": "https://youtu.be/Jno_SjyDuGw?si=P5NONVTIiFAdYceX",
+                "tags": ["さば23", "合宿", "2024", "9/5"]
+            },
+            {
+                "id": 5,
+                "title": "24学年バンド",
+                "url": "https://youtu.be/mnRKCQgFBNI?si=Gtr1XiWYQh3etFzE",
+                "tags": ["24学年バンド", "合宿", "2024", "9/5"]
+            },
+            {
+                "id": 6,
+                "title": "ガリレオガリレイ",
+                "url": "https://youtu.be/WCyqqwcFxRk?si=AfFdtA1chi4rvmJw",
+                "tags": ["ガリレオガリレイ", "合宿", "2024", "9/5"]
+            },
+            {
+                "id": 7,
+                "title": "CHIGYO",
+                "url": "https://youtu.be/UgOAnyT9iP8?si=kQwQj3S1P2EIyqb3",
+                "tags": ["CHIGYO", "合宿", "2024", "9/5"]
+            },
+            {
+                "id": 8,
+                "title": "女子ドラマーだって前に立ちたい",
+                "url": "https://youtu.be/M3iAt2dsxbY?si=8C2IknhU8ZkaAn4f",
+                "tags": ["女子ドラマーだって前に立ちたい", "合宿", "2024", "9/5"]
+            },
+            {
+                "id": 9,
+                "title": "女子ドラマーだって前に立ちたい（携帯カメラ）",
+                "url": "https://youtu.be/HOTr7MFzw_A?si=DhSEaaSfuAYg4O32",
+                "tags": ["女子ドラマーだって前に立ちたい（携帯カメラ）", "合宿", "2024", "9/5"]
+            },
+            {
+                "id": 10,
+                "title": "スミカ",
+                "url": "https://youtu.be/9iDnvA7etLk?si=Mk3qszE3rN3fJHZh",
+                "tags": ["スミカ", "合宿", "2024", "9/5"]
+            },
+            {
+                "id": 11,
+                "title": "MANIWA",
+                "url": "https://youtu.be/80lZmhbvUjE?si=B3h6-dD4ZlAOydqj",
+                "tags": ["MANIWA", "合宿", "2024", "9/5"]
+            },
+            {
+                "id": 12,
+                "title": "2人goose house",
+                "url": "https://youtu.be/k2oewbwx_uA?si=O4GTgAFkYjSMvfCb",
+                "tags": ["2人goose house", "合宿", "2024", "9/5"]
+            },
+            {
+                "id": 13,
+                "title": "ユニゾン",
+                "url": "https://youtu.be/zuPzTVmarME?si=JOgl3AFW8wZt20Ln",
+                "tags": ["ユニゾン", "合宿", "2024", "9/5"]
+            },
+            {
+                "id": 14,
+                "title": "ナンバガ",
+                "url": "https://youtu.be/1LaAwmvItYE?si=PEkfXmP0X-OzGLRw",
+                "tags": ["ナンバガ", "合宿", "2024", "9/5"]
+            },
+            {
+                "id": 15,
+                "title": "[Mocktails]",
+                "url": "https://youtu.be/OpePliLwOUo?si=ytEqTaYFGdNvM57i",
+                "tags": ["[Mocktails]", "合宿", "2024", "9/5"]
+            },
+            {
+                "id": 16,
+                "title": "トゲアリトゲナシトゲトゲ",
+                "url": "https://youtu.be/QExxKUDs3Ig?si=KVpW9ciIos_ldRuX",
+                "tags": ["トゲアリトゲナシトゲトゲ", "合宿", "2024", "9/5"]
+            },
+            {
+                "id": 17,
+                "title": "米津”合宿”玄師",
+                "url": "https://youtu.be/oBHZwM-5yUU?si=xgJibw_BzAYpxvyX",
+                "tags": ["米津”合宿”玄師", "合宿", "2024", "9/5"]
+            },
+            {
+                "id": 18,
+                "title": "チャッソモンチー",
+                "url": "https://youtu.be/k5UOleOZIPw?si=R4QGCGCWA1XtOOpn",
+                "tags": ["チャッソモンチー", "合宿", "2024", "9/5"]
+            },
+            {
+                "id": 19,
+                "title": "赤い公園",
+                "url": "https://youtu.be/BujdeJaVVCk?si=p--qZtIsrbaJcb_j",
+                "tags": ["赤い公園", "合宿", "2024", "9/5"]
+            },
+            {
+                "id": 20,
+                "title": "21学年バンド",
+                "url": "https://youtu.be/Z2YJPhVAJ2w?si=JxFMlmmT0F1v4tH7",
+                "tags": ["21学年バンド", "合宿", "2024", "9/5"]
+            }
+            ]
+           },
     {
         "slug": "202402-OBOG-DAY1",
         "title": "202402 OBOG DAY1",
@@ -4685,7 +5328,7 @@
                 "id": 11,
                 "title":"トゲアリトゲナシトゲトゲ",
                 "url":"https://youtu.be/Y0zGa6ejp-w",
-                "tags": ["トゲアリトゲナシトゲトゲ", "追いコン", "2026", "3/14"]
+                "tags": ["トゲアリトゲナシトゲトゲ","とげとげ", "追いコン", "2026", "3/14"]
             },
             {
                 "id": 12,
