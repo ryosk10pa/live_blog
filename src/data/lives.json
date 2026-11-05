@@ -994,8 +994,8 @@
         ]
     },
     {
-        "slug": "202206-GAKUSAI-DAY1",
-        "title": "202206 学祭ライブ DAY1",
+        "slug": "202206-GAKUSAI-DAY2",
+        "title": "202206 学祭ライブ DAY2",
         "date": "2022-06-04",
         "videos":[
         {
@@ -1879,21 +1879,21 @@
         "videos":[
             {
                 "id":1,
-                "title": "1日目",
+                "title": "手刀ライブ 1日目",
                 "url": "https://youtube.com/live/5a0aSfy8XhQ?feature=share",
-                "tags": ["2023", "1/21","手刀ライブ", "配信アーカイブ", "手刀"]
+                "tags": ["2023", "1/21","手刀ライブ", "配信アーカイブ", "手刀","自己満スリーピース","TOKIO","ア・ラ・アラシ","おいしくる","トゲアリトゲナシトゲトゲ","Count Up！！","NUMBER GIRL","凸ニーナ","クリームバイブ","ネクラナトーキー","OBAKAMA"]
             },
             {
                 "id":2,
-                "title": "2日目",
+                "title": "手刀ライブ 2日目",
                 "url": "https://youtube.com/live/a8a4ganWyFo?feature=share",
-                "tags": ["2023", "1/22", "手刀ライブ", "配信アーカイブ", "手刀"]
+                "tags": ["2023", "1/22", "手刀ライブ", "配信アーカイブ", "手刀","セックスマシーン","カタコリマサル","ほいせ枠","What is EDGING？","04LS","blink-182","くらむぼんぼん","×とメメメ","アジ缶","まきしまむザほるもん","夜歯科","ぺどろ","THE ORAL CIGARETTES","SEKIYU SQUARE GARDEN"]
             },
             {
                 "id":3,
-                "title": "3日目",
+                "title": "手刀ライブ 3日目",
                 "url": "https://youtube.com/live/8ZMoR9Pu9uk?feature=share",
-                "tags": ["2023", "1/26", "手刀ライブ", "配信アーカイブ", "手刀"]
+                "tags": ["2023", "1/26", "手刀ライブ", "配信アーカイブ", "手刀","YOASOBI","女王蜂","ほい音ミク","ネ○ライト○キー","メンブレッターズ","はじめてのきのこ帝国　手刀編","SUNNY CAR WASH","プリンです　プリンです","マカえん","ピピーッ！コラ！！秋山逮捕されるな","ハローワークス","黄ばんでる公園","まなつさん","サイサイ③","うぃんぷす学園","L'Arc〜en〜Ciel"]
             }
         ]
     },
@@ -4584,6 +4584,171 @@
             ]
            },
     {
+        "slug":"202410-24DEBUT",
+        "title":"202410 24デビューライブ",
+        "date":"2024-10-03",
+        "videos":[
+        {
+            "id": 1,
+            "title": "ヨルシカ",
+            "url": "https://youtu.be/Tuh8Ho_6PDY?si=zZvAHtZPBdAd2SPA",
+            "tags": ["ヨルシカ", "24デビューライブ", "2024", "10/3"]
+        },
+        {
+            "id": 2,
+            "title": "ジッキン",
+            "url": "https://youtu.be/_qbHCjjeZ9E?si=QsrNJJKVD8gxtJLe",
+            "tags": ["ジッキン", "24デビューライブ", "2024", "10/3"]
+        },
+        {
+            "id": 3,
+            "title": "yonayonaweekenders",
+            "url": "https://youtu.be/3LGPNXNjAJI?si=878bVe5mRhEPi1ta",
+            "tags": ["yonayonaweekenders", "24デビューライブ", "2024", "10/3"]
+        },
+        {
+            "id": 4,
+            "title": "summer of newcomers",
+            "url": "https://youtu.be/oh7L1bMr3pQ?si=QY4Ve83Ta8GHG599",
+            "tags": ["summer of newcomers", "24デビューライブ", "2024", "10/3"]
+        },
+        {
+            "id": 5,
+            "title": "ルージュ",
+            "url": "https://youtu.be/zShYJAK7-2o?si=95yqMkMb6rrW4rOk",
+            "tags": ["ルージュ", "24デビューライブ", "2024", "10/3"]
+        },
+        {
+            "id": 6,
+            "title": "サマーシスター",
+            "url": "https://youtu.be/2lU_wQ-gBys?si=4SE12TzHfsMKCQ4u",
+            "tags": ["サマーシスター", "24デビューライブ", "2024", "10/3"]
+        },
+        {
+            "id": 7,
+            "title": "👁👅",
+            "url": "https://youtu.be/MslKgyflz1o?si=tWM-iNTG9o1Z8Jya",
+            "tags": ["👁👅", "24デビューライブ", "2024", "10/3"]
+        }
+        ]
+    },
+    {
+        "slug":"202411-22DOKILIVE-DAY1",
+        "title":"202411 22同期ライブ DAY1",
+        "date":"2024-11-25",
+        "videos":[
+        {
+            "id": 1,
+            "title": "ヤバTEA",
+            "url": "https://youtu.be/-gL_zqeKZYk?si=Dx3IVQlzgicLqG26",
+            "tags": ["ヤバTEA", "22同期ライブ", "2024", "11/25"]
+        },
+        {
+            "id": 2,
+            "title": "Vaundy",
+            "url": "https://youtu.be/DiPI8Bhs3Ng?si=u-_gevsQkJNUexI3",
+            "tags": ["Vaundy", "22同期ライブ", "2024", "11/25"]
+        },
+        {
+            "id": 3,
+            "title": "中村匠汰",
+            "url": "https://youtu.be/UnQUIfajNDo?si=pUtzTD-vLpJCrgvB",
+            "tags": ["中村匠汰", "22同期ライブ", "2024", "11/25"]
+        },
+        {
+            "id": 4,
+            "title": "With Mom's",
+            "url": "https://youtu.be/jgwWUUTUOF8?si=0xWiGOgmo8zF916a",
+            "tags": ["With Mom's", "22同期ライブ", "2024", "11/25"]
+        },
+        {
+            "id": 5,
+            "title": "FS BEAVER",
+            "url": "https://youtu.be/bU1B-d8lofI?si=laPpOnvPSXXK5ntu",
+            "tags": ["FS BEAVER", "22同期ライブ", "2024", "11/25"]
+        },
+        {
+            "id": 6,
+            "title": "ONE OK ROCK",
+            "url": "https://youtu.be/RHSBjoIEbS0?si=IUX0ViCRck9Y-lmR",
+            "tags": ["ONE OK ROCK", "22同期ライブ", "2024", "11/25"]
+        },
+        {
+            "id": 7,
+            "title": "タイニーデイサービス",
+            "url": "https://youtu.be/w7voLodNE64?si=DJeBVmQ1_6r0Hfkq",
+            "tags": ["タイニーデイサービス", "22同期ライブ", "2024", "11/25"]
+        },
+        {
+            "id": 8,
+            "title": "ぺどろ",
+            "url": "https://youtu.be/cuBWlDKuxuc?si=hN8k0MKv_mIBTnXN",
+            "tags": ["ぺどろ", "22同期ライブ", "2024", "11/25"]
+        }
+        ]
+    },
+    {
+        "slug":"202411-22DOKILIVE-DAY2",
+        "title":"202411 22同期ライブ DAY2",
+        "date":"2024-11-25",
+        "videos":[
+        {
+            "id": 1,
+            "title": "山羊文学",
+            "url": "https://youtu.be/N34xbEcugbA?si=JyQhV4hh9L9MNJi1",
+            "tags": ["山羊文学", "22同期ライブ", "2024", "11/25"]
+        },
+        {
+            "id": 2,
+            "title": "超社会的サンダル",
+            "url": "https://youtu.be/KPJ-IfMs4XA?si=ISh9F0SleuLPq4Y6",
+            "tags": ["超社会的サンダル", "22同期ライブ", "2024", "11/25"]
+        },
+        {
+            "id": 3,
+            "title": "ドラマーだって前に立ちたい！",
+            "url": "https://youtu.be/W-qfcRoKQu4?si=gE3gUAldHP1H0ak5",
+            "tags": ["ドラマーだって前に立ちたい！", "22同期ライブ", "2024", "11/25"]
+        },
+        {
+            "id": 4,
+            "title": "DOES",
+            "url": "https://youtu.be/lt9M3pVc1HQ?si=dv2wlzrQz_rvlROd",
+            "tags": ["DOES", "22同期ライブ", "2024", "11/25"]
+        },
+        {
+            "id": 5,
+            "title": "MAGURO",
+            "url": "https://youtu.be/kbvbONRCUhI?si=L5sLPs6QnsGJC_4y",
+            "tags": ["MAGURO", "22同期ライブ", "2024", "11/25"]
+        },
+        {
+            "id": 6,
+            "title": "teto",
+            "url": "https://youtu.be/uFhr9wss7hM?si=RO5EFNY77fde9BXl",
+            "tags": ["teto", "22同期ライブ", "2024", "11/25"]
+        },
+        {
+            "id": 7,
+            "title": "×とメメメ。",
+            "url": "https://youtu.be/wOgRyuyy-fs?si=JWYjpKwlR1DQD_lA",
+            "tags": ["×とメメメ。", "22同期ライブ", "2024", "11/25"]
+        },
+        {
+            "id": 8,
+            "title": "おいしくる",
+            "url": "https://youtu.be/ctNOAkfbQz8?si=_S-DVqkLO5H8-CwG",
+            "tags": ["おいしくる", "22同期ライブ", "2024", "11/25"]
+        },
+        {
+            "id": 9,
+            "title": "アンコール（おいしくる）",
+            "url": "https://youtu.be/RKdT5trLMn8?si=DMwyDEqRO_Bggy36",
+            "tags": ["アンコール（おいしくる）", "22同期ライブ", "2024", "11/25"]
+        }
+        ]
+    },
+    {
         "slug": "202402-OBOG-DAY1",
         "title": "202402 OBOG DAY1",
         "date": "2024-02-10",
@@ -4728,7 +4893,1723 @@
             "tags": ["人間椅子", "OBOG", "2024", "2/12"]
         }
         ]
-    },  
+    },
+    { 
+        "slug": "202412-23DOKI",
+        "title": "202402 23同期ライブ",
+        "date": "2024-02-07",
+        "videos": [
+        {
+            "id": 1,
+            "title": "ヤバイ運営屋さん",
+            "url": "https://youtu.be/GbE_lM9mwsY",
+            "tags": ["ヤバイ運営屋さん", "23同期ライブ", "2024", "12/7"]
+        },
+        {
+            "id": 2,
+            "title": "Royal Lily",
+            "url": "https://youtu.be/3nHpK8ZmQ_g",
+            "tags": ["Royal Lily", "23同期ライブ", "2024", "12/7"]
+        },
+        {
+            "id": 3,
+            "title": "右寄りのスリーピース",
+            "url": "https://youtu.be/6NjY4DtVPR4",
+            "tags": ["右寄りのスリーピース", "23同期ライブ", "2024", "12/7"]
+        },
+        {
+            "id": 4,
+            "title": "プロジェクト巣鴨",
+            "url": "https://youtu.be/WUexu0JJxzE",
+            "tags": ["プロジェクト巣鴨", "23同期ライブ", "2024", "12/7"]
+        },
+        {
+            "id": 5,
+            "title": "Tuesday",
+            "url": "https://youtu.be/adSlJSw9XHk",
+            "tags": ["Tuesday", "23同期ライブ", "2024", "12/7"]
+        },
+        {
+            "id": 6,
+            "title": "あいすたべたべさーくる",
+            "url": "https://youtu.be/TrKADVgDHm0",
+            "tags": ["あいすたべたべさーくる", "23同期ライブ", "2024", "12/7"]
+        },
+        {
+            "id": 7,
+            "title": "[アレハフードロス]",
+            "url": "https://youtu.be/VzlHy3U_VNA",
+            "tags": ["[アレハフードロス]", "23同期ライブ", "2024", "12/7"]
+        },
+        {
+            "id": 8,
+            "title": "break through",
+            "url": "https://youtu.be/FHzmYbuTESk",
+            "tags": ["break through", "23同期ライブ", "2024", "12/7"]
+        },
+        {
+            "id": 9,
+            "title": "さば23",
+            "url": "https://youtu.be/Vj9Qxp4gb54",
+            "tags": ["さば23", "23同期ライブ", "2024", "12/7"]
+        },
+        {
+            "id": 10,
+            "title": "KOTORA",
+            "url": "https://youtu.be/45lglkBW_Ew",
+            "tags": ["KOTORA", "23同期ライブ", "2024", "12/7"]
+        },
+        {
+            "id": 11,
+            "title": "X JAPAN",
+            "url": "https://youtu.be/64wWkaaLP1s",
+            "tags": ["X JAPAN", "23同期ライブ", "2024", "12/7"]
+        },
+        {
+            "id": 12,
+            "title": "ぽるか(=^x^=)",
+            "url": "https://youtu.be/L1OWibcA5qE",
+            "tags": ["ぽるか(=^x^=)", "23同期ライブ", "2024", "12/7"]
+        },
+        {
+            "id": 13,
+            "title": "23 Limited Sazabys",
+            "url": "https://youtu.be/Vuo20s402Ok",
+            "tags": ["23 Limited Sazabys", "23同期ライブ", "2024", "12/7"]
+        }
+        ]
+    },
+    {
+        "slug": "202412-KURIKON-DAY1",
+        "title": "202412 KURIKON DAY1",
+        "date": "2025-1-6",
+        "videos":[
+        {
+            "id": 1,
+            "title": "ジッキン",
+            "url": "https://youtu.be/7kYw66lTbyI?si=DYfDVGWVOQNA7MdX",
+            "tags": ["ジッキン", "クリコン", "2024", "1/6"]
+        },
+        {
+            "id": 2,
+            "title": "女子ドラマーだって前に立ちたい",
+            "url": "https://youtu.be/GnJXdsa3umA?si=tO_3bPQEuSFJRoe-",
+            "tags": ["女子ドラマーだって前に立ちたい", "クリコン", "2024", "1/6"]
+        },
+        {
+            "id": 3,
+            "title": "3学部合唱",
+            "url": "https://youtu.be/kwzPGpFYs5U?si=2Y6PdQc7CsetMecA",
+            "tags": ["3学部合唱", "クリコン", "2024", "1/6"]
+        },
+        {
+            "id": 4,
+            "title": "チキチキばんばん",
+            "url": "https://youtu.be/ivmG0ikEFT0?si=hGruDGL2uTyP08MG",
+            "tags": ["チキチキばんばん", "クリコン", "2024", "1/6"]
+        },
+        {
+            "id": 5,
+            "title": "コンテンポラリーな生活",
+            "url": "https://youtu.be/ivh8c_D9b-g?si=NT7XmDTDp2mRcgEG",
+            "tags": ["コンテンポラリーな生活", "クリコン", "2024", "1/6"]
+        },
+        {
+            "id": 6,
+            "title": "SQUARE GARDEN",
+            "url": "https://youtu.be/SUwqkqXDmOI?si=PulPMNgahpsREkrF",
+            "tags": ["SQUARE GARDEN", "クリコン", "2024", "1/6"]
+        }
+        ]
+    },
+    {
+        "slug": "202412-KURIKON-DAY2",
+        "title": "202412 KURIKON DAY2",
+        "date": "2025-01-06",
+        "videos":[
+        {
+            "id": 1,
+            "title": "ブランデー",
+            "url": "https://youtu.be/0TxZAnXdFFc?si=AajUEon6l5j_yx9O",
+            "tags": ["ブランデー", "クリコン", "2024", "1/6"]
+        },
+        {
+            "id": 2,
+            "title": "break through",
+            "url": "https://youtu.be/GB2ioSwV6mc?si=oVFvRaNhSOqb6uQk",
+            "tags": ["break through", "クリコン", "2024", "1/6"]
+        },
+        {
+            "id": 3,
+            "title": "羊文学",
+            "url": "https://youtu.be/MhIYKGH975c?si=7sotIm0riwUGzNfg",
+            "tags": ["羊文学", "クリコン", "2024", "1/6"]
+        },
+        {
+            "id": 4,
+            "title": "ミスターチルレ丼",
+            "url": "https://youtu.be/d_rM1LmcoSM?si=XpipTo7q5Sm_c28B",
+            "tags": ["ミスターチルレ丼", "クリコン", "2024", "1/6"]
+        },
+        {
+            "id": 5,
+            "title": "チャッソモンチー",
+            "url": "https://youtu.be/sdN0rcYBkPo?si=3L9KDX9M5UNrCIwH",
+            "tags": ["チャッソモンチー", "クリコン", "2024", "1/6"]
+        },
+        {
+            "id": 6,
+            "title": "THE REGULAR CIGARETTES",
+            "url": "https://youtu.be/6Nw8CHFRB_o?si=50G23V-WAJo3fiHN",
+            "tags": ["THE REGULAR CIGARETTES", "クリコン", "2024", "1/6"]
+        },
+        {
+            "id": 7,
+            "title": "THE REGULAR CIGARETTES（携帯カメラ）",
+            "url": "https://youtu.be/pk6tQ3cKsEk?si=VqxjR93GzxSNqRL6",
+            "tags": ["THE REGULAR CIGARETTES（携帯カメラ）", "クリコン", "2024", "1/6"]
+        },
+        {
+            "id": 8,
+            "title": "ハイサイモンパチたかし",
+            "url": "https://youtu.be/KEKF_O34Pf8?si=XWKg_u2GirTu-5fG",
+            "tags": ["ハイサイモンパチたかし", "クリコン", "2024", "1/6"]
+        }
+        ]
+    },
+    {
+        "slug": "202412-KURIKON-DAY3",
+        "title": "202412 KURIKON DAY3",
+        "date": "2025-01-06",
+        "videos":[
+        {
+            "id": 1,
+            "title": "びっくりドンキー",
+            "url": "https://youtu.be/PNifRqoxWVY?si=zgiRev6Uu48sIEmT",
+            "tags": ["びっくりドンキー", "クリコン", "2024", "1/6"]
+        },
+        {
+            "id": 2,
+            "title": "もっと！もっとちゃんちー",
+            "url": "https://youtu.be/giPPpA4l-uw?si=lnZD6XVOik8_ZLyV",
+            "tags": ["もっと！もっとちゃんちー", "クリコン", "2024", "1/6"]
+        },
+        {
+            "id": 3,
+            "title": "渉外枠",
+            "url": "https://youtu.be/UyVdbaedYT4?si=0uXQbXPC5583P1st",
+            "tags": ["渉外枠", "クリコン", "2024", "1/6"]
+        },
+        {
+            "id": 4,
+            "title": "CHIGYO",
+            "url": "https://youtu.be/Aal1ozuLkV4?si=XW0wlNxWX6WGg209",
+            "tags": ["CHIGYO", "クリコン", "2024", "1/6"]
+        },
+        {
+            "id": 5,
+            "title": "はにわ",
+            "url": "https://youtu.be/ZkiyE6AR5SA?si=VZ2_Upl6i4jHsNw2",
+            "tags": ["はにわ", "クリコン", "2024", "1/6"]
+        },
+        {
+            "id": 6,
+            "title": "あいすたべたべサークル",
+            "url": "https://youtu.be/QUlWIQvUUzY?si=u_QSkYrpBHogMTZa",
+            "tags": ["あいすたべたべサークル", "クリコン", "2024", "1/6"]
+        },
+        {
+            "id": 7,
+            "title": "あいすたべたべサークル（携帯カメラ）",
+            "url": "https://youtu.be/RU8u5PGsdos?si=g03sbRlM7zKGSynE",
+            "tags": ["あいすたべたべサークル（携帯カメラ）", "クリコン", "2024", "1/6"]
+        },
+        {
+            "id": 8,
+            "title": "indigo",
+            "url": "https://youtu.be/H2i-1RzroLI?si=rqLNjCIJJybc5b2s",
+            "tags": ["indigo", "クリコン", "2024", "1/6"]
+        },
+        {
+            "id": 9,
+            "title": "indigo（携帯カメラ）",
+            "url": "https://youtu.be/xQQXAFKJ0kM?si=vjWdZh8ORuj1PWAT",
+            "tags": ["indigo（携帯カメラ）", "クリコン", "2024", "1/6"]
+        },
+        {
+            "id": 10,
+            "title": "aiko",
+            "url": "https://youtu.be/WEkH7tYDYRk?si=0ghbA5iAiE8Blokv",
+            "tags": ["aiko", "クリコン", "2024", "1/6"]
+        },
+        {
+            "id": 11,
+            "title": "メンブレッターズ",
+            "url": "https://youtu.be/dWr4KrZiT5k?si=42NEJbFDMmgs1-DI",
+            "tags": ["メンブレッターズ", "クリコン", "2024", "1/6"]
+        }
+        ]
+    },
+    {
+        "slug": "202502-CHOPLIVE-DAY1",
+        "title": "202502 手刀ライブ DAY1",
+        "date": "2025-02-06",
+        "videos":[
+        {
+            "id": 1,
+            "title": "プロジェクト巣鴨",
+            "url": "https://youtu.be/miDHMR45Fx4",
+            "tags": ["プロジェクト巣鴨", "手刀ライブ", "2024", "2/6"]
+        },
+        {
+            "id": 2,
+            "title": "KOTORA",
+            "url": "https://youtu.be/bxFyQcyRucg",
+            "tags": ["KOTORA", "手刀ライブ", "2024", "2/6"]
+        },
+        {
+            "id": 3,
+            "title": "CHIKOはに",
+            "url": "https://youtu.be/MlKDVzrIkZM",
+            "tags": ["CHIKOはに", "手刀ライブ", "2024", "2/6"]
+        },
+        {
+            "id": 4,
+            "title": "びっくりドンキー",
+            "url": "https://youtu.be/fTfDiKFWHho",
+            "tags": ["びっくりドンキー", "手刀ライブ", "2024", "2/6"]
+        },
+        {
+            "id": 5,
+            "title": "V系セッション",
+            "url": "https://youtu.be/6ZM10KLnwBU",
+            "tags": ["V系セッション", "手刀ライブ", "2024", "2/6"]
+        },
+        {
+            "id": 6,
+            "title": "23 Limited Sazabys",
+            "url": "https://youtu.be/j_Gi-tKq5Tg",
+            "tags": ["23 Limited Sazabys", "手刀ライブ", "2024", "2/6"]
+        },
+        {
+            "id": 7,
+            "title": "×とメメメ。",
+            "url": "https://youtu.be/Lx1qoZzO1vs",
+            "tags": ["×とメメメ。", "手刀ライブ", "2024", "2/6"]
+        },
+        {
+            "id": 8,
+            "title": "ウォンカドーレ",
+            "url": "https://youtu.be/bhGiqXbxt5g",
+            "tags": ["ウォンカドーレ", "手刀ライブ", "2024", "2/6"]
+        },
+        {
+            "id": 9,
+            "title": "Ahooo",
+            "url": "https://youtu.be/xFqZfpBFkBc",
+            "tags": ["Ahooo", "手刀ライブ", "2024", "2/6"]
+        }
+        ]
+    },
+    {
+        "slug": "202502-CHOPLIVE-DAY2",
+        "title": "202502 手刀ライブ DAY2",
+        "date": "2025-02-06",
+        "videos":[
+        {
+            "id": 1,
+            "title": "一つ目小僧",
+            "url": "https://youtu.be/VyOkzYCu0fo",
+            "tags": ["一つ目小僧", "手刀ライブ", "2024", "2/6"]
+        },
+        {
+            "id": 2,
+            "title": "やばT",
+            "url": "https://youtu.be/IdSAiDYzyCM",
+            "tags": ["やばT", "手刀ライブ", "2024", "2/6"]
+        },
+        {
+            "id": 3,
+            "title": "銀盤",
+            "url": "https://youtu.be/wBOqT5s-2mA",
+            "tags": ["銀盤", "手刀ライブ", "2024", "2/6"]
+        },
+        {
+            "id": 4,
+            "title": "さば23",
+            "url": "https://youtu.be/S9DYWckIgro",
+            "tags": ["さば23", "手刀ライブ", "2024", "2/6"]
+        },
+        {
+            "id": 5,
+            "title": "かまって23",
+            "url": "https://youtu.be/HTLanFUK8Yk",
+            "tags": ["かまって23", "手刀ライブ", "2024", "2/6"]
+        },
+        {
+            "id": 6,
+            "title": "姦椎名林檎",
+            "url": "https://youtu.be/Qsuk_ke-FWg",
+            "tags": ["姦椎名林檎", "手刀ライブ", "2024", "2/6"]
+        },
+        {
+            "id": 7,
+            "title": "Mrs. GRANNY SMITH",
+            "url": "https://youtu.be/M7L83oN4-2c",
+            "tags": ["Mrs. GRANNY SMITH", "手刀ライブ", "2024", "2/6"]
+        },
+        {
+            "id": 8,
+            "title": "クリームバイブ",
+            "url": "https://youtu.be/iQjkMLDf8J8",
+            "tags": ["クリームバイブ", "手刀ライブ", "2024", "2/6"]
+        },
+        {
+            "id": 9,
+            "title": "ヨルシカ",
+            "url": "https://youtu.be/pr4hXaszu0A",
+            "tags": ["ヨルシカ", "手刀ライブ", "2024", "2/6"]
+        }
+        ]
+    },
+    {
+        "slug": "202502-CHOPLIVE-DAY3",
+        "title": "202502 手刀ライブ DAY3",
+        "date": "2025-02-06",
+        "videos":[
+        {
+            "id": 1,
+            "title": "GEZAN",
+            "url": "https://youtu.be/SpLt2BjFA3c",
+            "tags": ["GEZAN", "手刀ライブ", "2024", "2/6"]
+        },
+        {
+            "id": 2,
+            "title": "トゲアリトゲナシトゲトゲ",
+            "url": "https://youtu.be/yMHVVuIbaGQ",
+            "tags": ["トゲアリトゲナシトゲトゲ", "手刀ライブ", "2024", "2/6"]
+        },
+        {
+            "id": 3,
+            "title": "さいさいちゃんず",
+            "url": "https://youtu.be/DkIn-igBj2I",
+            "tags": ["さいさいちゃんず", "手刀ライブ", "2024", "2/6"]
+        },
+        {
+            "id": 4,
+            "title": "ネクライドーキー",
+            "url": "https://youtu.be/ld-eFR-aO84",
+            "tags": ["ネクライドーキー", "手刀ライブ", "2024", "2/6"]
+        },
+        {
+            "id": 5,
+            "title": "マキシマム ザ ホルモン",
+            "url": "https://youtu.be/Rzmao-sniCk",
+            "tags": ["マキシマム ザ ホルモン", "手刀ライブ", "2024", "2/6"]
+        },
+        {
+            "id": 6,
+            "title": "THE IQOS CIGARETTES",
+            "url": "https://youtu.be/eZ9NAoGYtfs",
+            "tags": ["THE IQOS CIGARETTES", "手刀ライブ", "2024", "2/6"]
+        },
+        {
+            "id": 7,
+            "title": "KANA-BOON",
+            "url": "https://youtu.be/IzJsQOPfhfw",
+            "tags": ["KANA-BOON", "手刀ライブ", "2024", "2/6"]
+        },
+        {
+            "id": 8,
+            "title": "KANA-BOON（最後少し）",
+            "url": "https://youtu.be/bIAItK8h9Rw",
+            "tags": ["KANA-BOON（最後少し）", "手刀ライブ", "2024", "2/6"]
+        },
+        {
+            "id": 9,
+            "title": "うぃんぷす学園",
+            "url": "https://youtu.be/b82Gj5YTfXE",
+            "tags": ["うぃんぷす学園", "手刀ライブ", "2024", "2/6"]
+        }
+        ]
+    },
+    {
+        "slug": "202503-21OIKON-DAY1",
+        "title": "202503 21追いコン DAY1",
+        "date": "2025-03-08",
+        "videos":[
+        {
+            "id": 1,
+            "title": "go!go!vanilas",
+            "url": "https://youtu.be/QIC9aeoMVWo",
+            "tags": ["go!go!vanilas", "21追いコン", "2024", "3/8"]
+        },
+        {
+            "id": 2,
+            "title": "米津”追いコン”玄師",
+            "url": "https://youtu.be/3TqRwvhxrAk",
+            "tags": ["米津”追いコン”玄師", "21追いコン", "2024", "3/8"]
+        },
+        {
+            "id": 3,
+            "title": "♀y Hair is Bad",
+            "url": "https://youtu.be/fOlFLHN_N8M",
+            "tags": ["♀y Hair is Bad", "21追いコン", "2024", "3/8"]
+        },
+        {
+            "id": 4,
+            "title": "秋山黄色",
+            "url": "https://youtu.be/si_sb49UnLs",
+            "tags": ["秋山黄色", "21追いコン", "2024", "3/8"]
+        },
+        {
+            "id": 5,
+            "title": "女子ドラマーだっって前に立ちたい",
+            "url": "https://youtu.be/Zr3nWoJ6yRc",
+            "tags": ["女子ドラマーだっって前に立ちたい", "21追いコン", "2024", "3/8"]
+        },
+        {
+            "id": 6,
+            "title": "19サイサイ",
+            "url": "https://youtu.be/R6faXPkhexQ",
+            "tags": ["19サイサイ", "21追いコン", "2024", "3/8"]
+        },
+        {
+            "id": 7,
+            "title": "うぃんぷす学園（19)",
+            "url": "https://youtu.be/nvvg4P8yBas",
+            "tags": ["うぃんぷす学園（19)", "21追いコン", "2024", "3/8"]
+        },
+        {
+            "id": 8,
+            "title": "チャッソ”本家”モンチー",
+            "url": "https://youtu.be/6H74_j-HttE",
+            "tags": ["チャッソ”本家”モンチー", "21追いコン", "2024", "3/8"]
+        },
+        {
+            "id": 9,
+            "title": "おやすみペネロペ",
+            "url": "https://youtu.be/lUqNLGm8Bj8",
+            "tags": ["おやすみペネロペ", "21追いコン", "2024", "3/8"]
+        }
+        ]
+    },
+    {
+        "slug": "202503-21OIKON-DAY2",
+        "title": "202503 21追いコン DAY2",
+        "date": "2025-03-09",
+        "videos":[
+        {
+            "id": 1,
+            "title": "大モRe:靖子",
+            "url": "https://youtu.be/kaIUJlAMde4",
+            "tags": ["大モRe:靖子", "21追いコン", "2024", "3/9"]
+        },
+        {
+            "id": 2,
+            "title": "APOROGY",
+            "url": "https://youtu.be/opThGjhaUEM",
+            "tags": ["APOROGY", "21追いコン", "2024", "3/9"]
+        },
+        {
+            "id": 3,
+            "title": "クレープバイト",
+            "url": "https://youtu.be/pVbFXbTjTVE",
+            "tags": ["クレープバイト", "21追いコン", "2024", "3/9"]
+        },
+        {
+            "id": 4,
+            "title": "PA from ELLEGARDEN",
+            "url": "https://youtu.be/W6tsrbnQxQ4",
+            "tags": ["PA from ELLEGARDEN", "21追いコン", "2024", "3/9"]
+        },
+        {
+            "id": 5,
+            "title": "爆弾ジョニー",
+            "url": "https://youtu.be/48tb1kdq90c",
+            "tags": ["爆弾ジョニー", "21追いコン", "2024", "3/9"]
+        },
+        {
+            "id": 6,
+            "title": "ガリレオガリレイ",
+            "url": "https://youtu.be/-XzdMPQ2ZYI",
+            "tags": ["ガリレオガリレイ", "21追いコン", "2024", "3/9"]
+        },
+        {
+            "id": 7,
+            "title": "OBAKAMA",
+            "url": "https://youtu.be/eUf-pDflx_g",
+            "tags": ["OBAKAMA", "21追いコン", "2024", "3/9"]
+        },
+        {
+            "id": 8,
+            "title": "マキシマムザホルモン",
+            "url": "https://youtu.be/F-DKld7vctM",
+            "tags": ["マキシマムザホルモン", "21追いコン", "2024", "3/9"]
+        }
+        ]
+    },
+    {
+        "slug": "202503-21OIKON-DAY3",
+        "title": "202503 21追いコン DAY3",
+        "date": "2025-03-11",
+        "videos":[
+        {
+            "id": 1,
+            "title": "21女子会",
+            "url": "https://youtu.be/MbqlnVDhYBs?si=UXkAR9GsmxnGj2st",
+            "tags": ["21女子会", "21追いコン", "2024", "3/11"]
+        },
+        {
+            "id": 2,
+            "title": "びっくりドンキー",
+            "url": "https://youtu.be/3cicKyH4-K8?si=yJgR1INx_LUWvZ1Z",
+            "tags": ["びっくりドンキー", "21追いコン", "2024", "3/11"]
+        },
+        {
+            "id": 3,
+            "title": "♂へらいずばっど",
+            "url": "https://youtu.be/zeGj1Hyb7Dw?si=P-hOu_NOhdsEktIr",
+            "tags": ["♂へらいずばっど", "21追いコン", "2024", "3/11"]
+        },
+        {
+            "id": 4,
+            "title": "アリサイサイ",
+            "url": "https://youtu.be/ZvK0plqFZHg",
+            "tags": ["アリサイサイ", "21追いコン", "2024", "3/11"]
+        },
+        {
+            "id": 5,
+            "title": "Ahoooo①",
+            "url": "https://youtu.be/F0KQCoKt348?si=t1Vb2J21IBW_amDZ",
+            "tags": ["Ahoooo①", "21追いコン", "2024", "3/11"]
+        },
+        {
+            "id": 6,
+            "title": "Ahoooo②",
+            "url": "https://youtu.be/KoOMqgYIWpE?si=nrIAixmUonV8efDR",
+            "tags": ["Ahoooo②", "21追いコン", "2024", "3/11"]
+        },
+        {
+            "id": 7,
+            "title": "うぃんぷす学園",
+            "url": "https://youtu.be/T4_5t2_NTsU",
+            "tags": ["うぃんぷす学園", "21追いコン", "2024", "3/11"]
+        },
+        {
+            "id": 8,
+            "title": "ネクラニトーキー",
+            "url": "https://youtu.be/AlNRHwTY8HI",
+            "tags": ["ネクラニトーキー", "21追いコン", "2024", "3/11"]
+        },
+        {
+            "id": 9,
+            "title": "aiko",
+            "url": "https://youtu.be/yU-W5nVsbfQ",
+            "tags": ["aiko", "21追いコン", "2024", "3/11"]
+        },
+        {
+            "id": 10,
+            "title": "ASIAN CHISATO GENERETION",
+            "url": "https://youtu.be/TCzMLo0YeIM",
+            "tags": ["ASIAN CHISATO GENERETION", "21追いコン", "2024", "3/11"]
+        },
+        {
+            "id": 11,
+            "title": "THE IQOS CIGARETTES",
+            "url": "https://youtu.be/u-0yXfaT-ME",
+            "tags": ["THE IQOS CIGARETTES", "21追いコン", "2024", "3/11"]
+        },
+        {
+            "id": 12,
+            "title": "カネヨリマサル",
+            "url": "https://youtu.be/eWNs4yj9QvM?si=H3O7CJ8jsntjEUfB",
+            "tags": ["カネヨリマサル", "21追いコン", "2024", "3/11"]
+        },
+        {
+            "id": 13,
+            "title": "クリームバイブ①",
+            "url": "https://youtu.be/cI-V2yQryBE?si=NmvkWaFk8pVwQthH",
+            "tags": ["クリームバイブ①", "21追いコン", "2024", "3/11"]
+        },
+        {
+            "id": 14,
+            "title": "クリームバイブ②",
+            "url": "https://youtu.be/DVv0S9rUxHc?si=rmTWVdNgbkzwL51M",
+            "tags": ["クリームバイブ②", "21追いコン", "2024", "3/11"]
+        }
+        ]
+    },
+    {
+        "slug": "202503-21OIKON-DAY4",
+        "title": "202503 21追いコン DAY4",
+        "date": "2025-03-12",
+        "videos":[
+        {
+            "id": 1,
+            "title": "シンガーズハイ",
+            "url": "https://youtu.be/jtmzprBdWyM",
+            "tags": ["シンガーズハイ", "21追いコン", "2024", "3/12"]
+        },
+        {
+            "id": 2,
+            "title": "日食なつお",
+            "url": "https://youtu.be/HtPY2Jl2Gts",
+            "tags": ["日食なつお", "21追いコン", "2024", "3/12"]
+        },
+        {
+            "id": 3,
+            "title": "ネクライドーキー",
+            "url": "https://youtu.be/IMgZgLYQ1HM",
+            "tags": ["ネクライドーキー", "21追いコン", "2024", "3/12"]
+        },
+        {
+            "id": 4,
+            "title": "後輩たちは不安よな、竹谷歌います。",
+            "url": "https://youtu.be/yf0pRJion7g",
+            "tags": ["後輩たちは不安よな、竹谷歌います。", "21追いコン", "2024", "3/12"]
+        },
+        {
+            "id": 5,
+            "title": "[Mocktails]",
+            "url": "https://youtu.be/Hv49r_ZHsAE",
+            "tags": ["[Mocktails]", "21追いコン", "2024", "3/12"]
+        },
+        {
+            "id": 6,
+            "title": "ボカ老人ホーム ミクの郷・ミクの杜",
+            "url": "https://youtu.be/LppKQaPhkE0",
+            "tags": ["ボカ老人ホーム ミクの郷・ミクの杜", "21追いコン", "2024", "3/12"]
+        },
+        {
+            "id": 7,
+            "title": "よるしか①",
+            "url": "https://youtu.be/7J9C1GwhIcE",
+            "tags": ["よるしか①", "21追いコン", "2024", "3/12"]
+        },
+        {
+            "id": 8,
+            "title": "よるしか②",
+            "url": "https://youtu.be/UJ9eQ10Ejxk",
+            "tags": ["よるしか②", "21追いコン", "2024", "3/12"]
+        },
+        {
+            "id": 9,
+            "title": "ほぼおばかま①",
+            "url": "https://youtu.be/wC1elY3eOXA",
+            "tags": ["ほぼおばかま①", "21追いコン", "2024", "3/12"]
+        },
+        {
+            "id": 10,
+            "title": "ほぼおばかま②",
+            "url": "https://youtu.be/Vgj2-qGKfAY",
+            "tags": ["ほぼおばかま②", "21追いコン", "2024", "3/12"]
+        },
+        {
+            "id": 11,
+            "title": "チャッソモンチー",
+            "url": "https://youtu.be/xTv_Wq6WDF8",
+            "tags": ["チャッソモンチー", "21追いコン", "2024", "3/12"]
+        },
+        {
+            "id": 12,
+            "title": "メンブレッターズ",
+            "url": "https://youtu.be/2xmBQxyzlns",
+            "tags": ["メンブレッターズ", "21追いコン", "2024", "3/12"]
+        },
+        {
+            "id": 13,
+            "title": "くるみ♡ポンチオ",
+            "url": "https://youtu.be/8qUGg2rGERM",
+            "tags": ["くるみ♡ポンチオ", "21追いコン", "2024", "3/12"]
+        }
+        ]
+    },
+    {
+        "slug": "202505-SHINKAN-DAY1",
+        "title": "202503 新歓ライブ DAY1",
+        "date": "2025-05-07",
+        "videos":[
+        {
+            "id": 1,
+            "title": "さば23",
+            "url": "https://youtu.be/uzKZFXMA-Fk",
+            "tags": ["さば23", "新歓ライブ", "2025", "5/7"]
+        },
+        {
+            "id": 2,
+            "title": "ミオヤマザキ",
+            "url": "https://youtu.be/HYOAyiLuGgI",
+            "tags": ["ミオヤマザキ", "新歓ライブ", "2025", "5/7"]
+        },
+        {
+            "id": 3,
+            "title": "愛麺",
+            "url": "https://youtu.be/gtFph9dc9lM",
+            "tags": ["愛麺", "新歓ライブ", "2025", "5/7"]
+        },
+        {
+            "id": 4,
+            "title": "[Akixandros]",
+            "url": "https://youtu.be/f6cRaQTX-uU",
+            "tags": ["[Akixandros]", "新歓ライブ", "2025", "5/7"]
+        }
+        ]
+    },
+    {
+        "slug": "202505-SHINKAN-DAY2",
+        "title": "202503 新歓ライブ DAY2",
+        "date": "2025-05-07",
+        "videos":[
+        {
+            "id": 1,
+            "title": "MADFIMPS",
+            "url": "https://youtu.be/2XzGoLb4Ewo",
+            "tags": ["MADFIMPS", "新歓ライブ", "2025", "5/7"]
+        },
+        {
+            "id": 2,
+            "title": "ジェニーハイ",
+            "url": "https://youtu.be/boVceZzDn5U",
+            "tags": ["ジェニーハイ", "新歓ライブ", "2025", "5/7"]
+        },
+        {
+            "id": 3,
+            "title": "Count Up!",
+            "url": "https://youtu.be/nbrWCtOCsow",
+            "tags": ["Count Up!", "新歓ライブ", "2025", "5/7"]
+        },
+        {
+            "id": 4,
+            "title": "ANIMETAL",
+            "url": "https://youtu.be/GDGugkrmflo",
+            "tags": ["ANIMETAL", "新歓ライブ", "2025", "5/7"]
+        },
+        {
+            "id": 5,
+            "title": "CHIGYO",
+            "url": "https://youtu.be/zeoHxMDxGy8",
+            "tags": ["CHIGYO", "新歓ライブ", "2025", "5/7"]
+        },
+        {
+            "id": 6,
+            "title": "23 Limited Sazabys",
+            "url": "https://youtu.be/FqbdSUpGVMQ",
+            "tags": ["23 Limited Sazabys", "新歓ライブ", "2025", "5/7"]
+        }
+        ]
+    },
+    {
+        "slug": "202505-SHINKAN-DAY3",
+        "title": "202503 新歓ライブ DAY3",
+        "date": "2025-05-07",
+        "videos":[
+        {
+            "id": 1,
+            "title": "HAZE",
+            "url": "https://youtu.be/9tS7jAR4pyQ",
+            "tags": ["HAZE", "新歓ライブ", "2025", "5/7"]
+        },
+        {
+            "id": 2,
+            "title": "んぺ",
+            "url": "https://youtu.be/85u_JN2WQAE",
+            "tags": ["んぺ", "新歓ライブ", "2025", "5/7"]
+        },
+        {
+            "id": 3,
+            "title": "ANO",
+            "url": "https://youtu.be/DIgAjlvWC0k",
+            "tags": ["ANO", "新歓ライブ", "2025", "5/7"]
+        },
+        {
+            "id": 4,
+            "title": "平成ガールズロックバンド",
+            "url": "https://youtu.be/T3imt83KQYs",
+            "tags": ["平成ガールズロックバンド", "新歓ライブ", "2025", "5/7"]
+        },
+        {
+            "id": 5,
+            "title": "Adobe",
+            "url": "https://youtu.be/h5mJfYLBblY",
+            "tags": ["Adobe", "新歓ライブ", "2025", "5/7"]
+        },
+        {
+            "id": 6,
+            "title": "銀盤",
+            "url": "https://youtu.be/7Epuo3jtIck",
+            "tags": ["銀盤", "新歓ライブ", "2025", "5/7"]
+        }
+        ]
+    },
+    {
+        "slug": "202509-25DEBUT-DAY1",
+        "title": "202509 25デビューライブ DAY1",
+        "date": "2025-09-14",
+        "videos":[
+        {
+            "id": 1,
+            "title": "シルバーボンバー",
+            "url": "https://youtu.be/lSdGXvlemHc",
+            "tags": ["シルバーボンバー", "25デビューライブ", "2025", "9/14"]
+        },
+        {
+            "id": 2,
+            "title": "みょんず",
+            "url": "https://youtu.be/5QwBdHYgJuI",
+            "tags": ["みょんず", "25デビューライブ", "2025", "9/14"]
+        },
+        {
+            "id": 3,
+            "title": "25BEVER",
+            "url": "https://youtu.be/zBgLx94yVuk",
+            "tags": ["25BEVER", "25デビューライブ", "2025", "9/14"]
+        },
+        {
+            "id": 4,
+            "title": "BOES",
+            "url": "https://youtu.be/ef1SZCsfJIM",
+            "tags": ["BOES", "25デビューライブ", "2025", "9/14"]
+        },
+        {
+            "id": 5,
+            "title": "大正48",
+            "url": "https://youtu.be/3JCwndiPvzs",
+            "tags": ["大正48", "25デビューライブ", "2025", "9/14"]
+        },
+        {
+            "id": 6,
+            "title": "少女達",
+            "url": "https://youtu.be/EYdSBxv7MH4",
+            "tags": ["少女達", "25デビューライブ", "2025", "9/14"]
+        },
+        {
+            "id": 7,
+            "title": "林檎中毒",
+            "url": "https://youtu.be/bsVTSixItxg",
+            "tags": ["林檎中毒", "25デビューライブ", "2025", "9/14"]
+        },
+        {
+            "id": 8,
+            "title": "Magical soup",
+            "url": "https://youtu.be/usgJ_JTBVa8",
+            "tags": ["Magical soup", "25デビューライブ", "2025", "9/14"]
+        },
+        {
+            "id": 9,
+            "title": "ツヨシカ",
+            "url": "https://youtu.be/DnE-vNhwGxU",
+            "tags": ["ツヨシカ", "25デビューライブ", "2025", "9/14"]
+        },
+        {
+            "id": 10,
+            "title": "VAWS",
+            "url": "https://youtu.be/gmsbLj_PvK0",
+            "tags": ["VAWS", "25デビューライブ", "2025", "9/14"]
+        }
+        ]
+    },
+    {
+        "slug": "202509-25DEBUT-DAY2",
+        "title": "202509 25デビューライブ DAY2",
+        "date": "2025-09-14",
+        "videos":[
+        {
+            "id": 1,
+            "title": "ウインナー豚汁",
+            "url": "https://youtu.be/KeK-hKrpdo8",
+            "tags": ["ウインナー豚汁", "25デビューライブ", "2025", "9/14"]
+        },
+        {
+            "id": 2,
+            "title": "鳥小屋",
+            "url": "https://youtu.be/I2Cec-0sg7g",
+            "tags": ["鳥小屋", "25デビューライブ", "2025", "9/14"]
+        },
+        {
+            "id": 3,
+            "title": "ふーま",
+            "url": "https://youtu.be/J9_pgwmnteA",
+            "tags": ["ふーま", "25デビューライブ", "2025", "9/14"]
+        },
+        {
+            "id": 4,
+            "title": "LEGO",
+            "url": "https://youtu.be/et3ITHsaquw",
+            "tags": ["LEGO", "25デビューライブ", "2025", "9/14"]
+        },
+        {
+            "id": 5,
+            "title": "りっくん行かなきゃ誰が行く",
+            "url": "https://youtu.be/1pA0jwHNes0",
+            "tags": ["りっくん行かなきゃ誰が行く", "25デビューライブ", "2025", "9/14"]
+        },
+        {
+            "id": 6,
+            "title": "Ambivalence",
+            "url": "https://youtu.be/sJomcv8h-h4",
+            "tags": ["Ambivalence", "25デビューライブ", "2025", "9/14"]
+        },
+        {
+            "id": 7,
+            "title": "VOCALOID",
+            "url": "https://youtu.be/jHToI8c95Pg",
+            "tags": ["VOCALOID", "25デビューライブ", "2025", "9/14"]
+        },
+        {
+            "id": 8,
+            "title": "TWENTY-FIFTH LOUNGE",
+            "url": "https://youtu.be/xwDF9VSpINQ",
+            "tags": ["TWENTY-FIFTH LOUNGE", "25デビューライブ", "2025", "9/14"]
+        },
+        {
+            "id": 9,
+            "title": "oasiz",
+            "url": "https://youtu.be/nk9CCEGEark",
+            "tags": ["oasiz", "25デビューライブ", "2025", "9/14"]
+        },
+        {
+            "id": 10,
+            "title": "TAISHO CHAOTIC!!!",
+            "url": "https://youtu.be/cux0TAimSMc",
+            "tags": ["TAISHO CHAOTIC!!!", "25デビューライブ", "2025", "9/14"]
+        },
+        {
+            "id": 11,
+            "title": "ONE MORE ROCK",
+            "url": "https://youtu.be/1Ije7dRaCvw",
+            "tags": ["ONE MORE ROCK", "25デビューライブ", "2025", "9/14"]
+        },
+        {
+            "id": 12,
+            "title": "ONE MORE ROCK（智咲カメラ①）",
+            "url": "https://youtu.be/v5qmWjWRtNE",
+            "tags": ["ONE MORE ROCK（智咲カメラ①）", "25デビューライブ", "2025", "9/14"]
+        },
+        {
+            "id": 13,
+            "title": "ONE MORE ROCK（智咲カメラ②）",
+            "url": "https://youtu.be/d6jRwTHgZjo",
+            "tags": ["ONE MORE ROCK（智咲カメラ②）", "25デビューライブ", "2025", "9/14"]
+        }
+        ]
+    },
+    {
+        "slug": "202509-GAKUSAI",
+        "title": "202509 学祭ライブ",
+        "date": "2025-09-14",
+        "videos": [
+        {
+            "id": 1,
+            "title": "Tommy Heavenly6①",
+            "url": "https://youtu.be/1ok6b9kuiNo",
+            "tags": ["Tommy Heavenly6①", "学祭ライブ", "2025", ""]
+        },
+        {
+            "id": 2,
+            "title": "Tommy Heavenly6②",
+            "url": "https://youtu.be/V_j9LCE30Tc",
+            "tags": ["Tommy Heavenly6②", "学祭ライブ", "2025", ""]
+        },
+        {
+            "id": 3,
+            "title": "Adobe",
+            "url": "https://youtu.be/v2fraKdVOWE",
+            "tags": ["Adobe", "学祭ライブ", "2025", ""]
+        },
+        {
+            "id": 4,
+            "title": "✕とメメメ①",
+            "url": "https://youtu.be/lAx1w5T4B9M",
+            "tags": ["✕とメメメ①", "学祭ライブ", "2025", ""]
+        },
+        {
+            "id": 5,
+            "title": "✕とメメメ②",
+            "url": "https://youtu.be/Oq4dNkfkPpM",
+            "tags": ["✕とメメメ②", "学祭ライブ", "2025", ""]
+        },
+        {
+            "id": 6,
+            "title": "クリープ現象",
+            "url": "https://youtu.be/GiQRZOGGl1U",
+            "tags": ["クリープ現象", "学祭ライブ", "2025", ""]
+        },
+        {
+            "id": 7,
+            "title": "あんでぃもり",
+            "url": "https://youtu.be/1eKc4e8lgQg",
+            "tags": ["あんでぃもり", "学祭ライブ", "2025", ""]
+        },
+        {
+            "id": 8,
+            "title": "さめざめ",
+            "url": "https://youtu.be/aH3F0BmDl-I",
+            "tags": ["さめざめ", "学祭ライブ", "2025", ""]
+        },
+        {
+            "id": 9,
+            "title": "Mrs.GREEN APPLE①",
+            "url": "https://youtu.be/YvCrjjRf1vA",
+            "tags": ["Mrs.GREEN APPLE①", "学祭ライブ", "2025", ""]
+        },
+        {
+            "id": 10,
+            "title": "Mrs.GREEN APPLE②",
+            "url": "https://youtu.be/49VMgLNbE2M",
+            "tags": ["Mrs.GREEN APPLE②", "学祭ライブ", "2025", ""]
+        },
+        {
+            "id": 11,
+            "title": "ミオヤマザキ①",
+            "url": "https://youtu.be/pmdf8zD54Gg",
+            "tags": ["ミオヤマザキ①", "学祭ライブ", "2025", ""]
+        },
+        {
+            "id": 12,
+            "title": "ミオヤマザキ②",
+            "url": "https://youtu.be/xF9febvH8c8",
+            "tags": ["ミオヤマザキ②", "学祭ライブ", "2025", ""]
+        },
+        {
+            "id": 13,
+            "title": "ミオヤマザキ③",
+            "url": "https://youtu.be/BowknokuxAM",
+            "tags": ["ミオヤマザキ③", "学祭ライブ", "2025", ""]
+        },
+        {
+            "id": 14,
+            "title": "ミオヤマザキ④",
+            "url": "https://youtu.be/FtVi09X9Yn0",
+            "tags": ["ミオヤマザキ④", "学祭ライブ", "2025", ""]
+        },
+        {
+            "id": 15,
+            "title": "PEDRO",
+            "url": "https://youtu.be/dXRZx7ubK3I",
+            "tags": ["PEDRO", "学祭ライブ", "2025", ""]
+        },
+        {
+            "id": 16,
+            "title": "ベイブレッターズ",
+            "url": "https://youtu.be/KBwNsAlATE8",
+            "tags": ["ベイブレッターズ", "学祭ライブ", "2025", ""]
+        },
+        {
+            "id": 17,
+            "title": "Suspened 4th①",
+            "url": "https://youtu.be/CTlWi66kHcM",
+            "tags": ["Suspened 4th①", "学祭ライブ", "2025", ""]
+        },
+        {
+            "id": 18,
+            "title": "Suspened 4th②",
+            "url": "https://youtu.be/yhc3SJ1w75w",
+            "tags": ["Suspened 4th②", "学祭ライブ", "2025", ""]
+        },
+        {
+            "id": 19,
+            "title": "Suspened 4th③",
+            "url": "https://youtu.be/TMhNB374meo",
+            "tags": ["Suspened 4th③", "学祭ライブ", "2025", ""]
+        },
+        {
+            "id": 20,
+            "title": "Suspened 4th④",
+            "url": "https://youtu.be/WpSVXThcXto",
+            "tags": ["Suspened 4th④", "学祭ライブ", "2025", ""]
+        },
+        {
+            "id": 21,
+            "title": "King Gamo①",
+            "url": "https://youtu.be/lS0Em4awjoQ",
+            "tags": ["King Gamo①", "学祭ライブ", "2025", ""]
+        },
+        {
+            "id": 22,
+            "title": "King Gamo②",
+            "url": "https://youtu.be/LNrFxlcCsYA",
+            "tags": ["King Gamo②", "学祭ライブ", "2025", ""]
+        },
+        {
+            "id": 23,
+            "title": "King Gamo③",
+            "url": "https://youtu.be/teYRsz7B-tI",
+            "tags": ["King Gamo③", "学祭ライブ", "2025", ""]
+        },
+        {
+            "id": 24,
+            "title": "King Gamo④",
+            "url": "https://youtu.be/OM7Vlvn6IUA",
+            "tags": ["King Gamo④", "学祭ライブ", "2025", ""]
+        },
+        {
+            "id": 25,
+            "title": "King Gamo⑤",
+            "url": "https://youtu.be/F4OOV-xl7ok",
+            "tags": ["King Gamo⑤", "学祭ライブ", "2025", ""]
+        }
+        ]
+    },
+    {
+        "slug": "202509-2324DOKI",
+        "title": "202509 2324同期ライブ",
+        "date": "2025-09-14",
+        "videos": [
+        {
+            "id": 1,
+            "title": "SCANDAL",
+            "url": "https://youtu.be/Dd40cyyVGRA?si=VEqQmSj77IPa9L50",
+            "tags": ["SCANDAL", "23,24同期ライブ", "2025", "9/14"]
+        },
+        {
+            "id": 2,
+            "title": "CHIGYO",
+            "url": "https://youtu.be/URQ_Y9VbxEQ?si=l5660SOu6SFxE-or",
+            "tags": ["CHIGYO", "23,24同期ライブ", "2025", "9/14"]
+        },
+        {
+            "id": 3,
+            "title": "Tokyo Incident",
+            "url": "https://youtu.be/8TWbjeZms-c?si=u1D7dkv3dewKGZAT",
+            "tags": ["Tokyo Incident", "23,24同期ライブ", "2025", "9/14"]
+        },
+        {
+            "id": 4,
+            "title": "ことら",
+            "url": "https://youtu.be/lLTQXHoaexw?si=ceEQvmsoCW_ishTZ",
+            "tags": ["ことら", "23,24同期ライブ", "2025", "9/14"]
+        },
+        {
+            "id": 5,
+            "title": "yonige",
+            "url": "https://youtu.be/2JaEfDaCH14?si=NSiOqqIllWEtY8w6",
+            "tags": ["yonige", "23,24同期ライブ", "2025", "9/14"]
+        },
+        {
+            "id": 6,
+            "title": "V系",
+            "url": "https://youtu.be/W4OJDHwbYOA?si=4kbbOon7rumFzGBt",
+            "tags": ["V系", "23,24同期ライブ", "2025", "9/14"]
+        },
+        {
+            "id": 7,
+            "title": "シロサイクロサイクサイサイ",
+            "url": "https://youtu.be/EEHCUXwAWHY?si=CaorCJsus4ws6k93",
+            "tags": ["シロサイクロサイクサイサイ", "23,24同期ライブ", "2025", "9/14"]
+        },
+        {
+            "id": 8,
+            "title": "ドリーム⭐シュカンブー",
+            "url": "https://youtu.be/rFmH74IyXdk?si=AwxauOCE_kfE0bni",
+            "tags": ["ドリーム⭐シュカンブー", "23,24同期ライブ", "2025", "9/14"]
+        },
+        {
+            "id": 9,
+            "title": "Salty Dog",
+            "url": "https://youtu.be/bfQNPUJq8Mw?si=HAB5cgrxpxBwHOnt",
+            "tags": ["Salty Dog", "23,24同期ライブ", "2025", "9/14"]
+        },
+        {
+            "id": 10,
+            "title": "中森明菜",
+            "url": "https://youtu.be/Z6YANBCxkBE?si=9y6kqkKnh1v4h6wJ",
+            "tags": ["中森明菜", "23,24同期ライブ", "2025", "9/14"]
+        },
+        {
+            "id": 11,
+            "title": "mol",
+            "url": "https://youtu.be/xKadnuw9GZU?si=9SwcZRJaraD2Iy5W",
+            "tags": ["mol", "23,24同期ライブ", "2025", "9/14"]
+        }
+        ]
+    },
+        {
+        "slug": "202512-GASSHUKU-DAY1",
+        "title": "202512 合宿ライブ DAY1",
+        "date": "2025-12-02",
+        "videos": [
+        {
+            "id": 1,
+            "title": "VAWS",
+            "url": "https://youtu.be/wV-bG5l_ZZk?si=L8fmsicgkJpyAJZt",
+            "tags": ["VAWS", "合宿ライブ", "2025", "12/2"]
+        },
+        {
+            "id": 2,
+            "title": "青りんご夫人",
+            "url": "https://youtu.be/DGh6r7B7aqY?si=Xy7nK0A0ReZGvKDz",
+            "tags": ["青りんご夫人", "合宿ライブ", "2025", "12/2"]
+        },
+        {
+            "id": 3,
+            "title": "マイヘア枠",
+            "url": "https://youtu.be/M1b6N8_8BiA?si=J853SsCJts9qhruK",
+            "tags": ["マイヘア枠", "合宿ライブ", "2025", "12/2"]
+        },
+        {
+            "id": 4,
+            "title": "大森靖子",
+            "url": "https://youtu.be/B-c9L7w3Gq8?si=qCMCjDw60kwj2WMP",
+            "tags": ["大森靖子", "合宿ライブ", "2025", "12/2"]
+        },
+        {
+            "id": 5,
+            "title": "ヨルシカ①",
+            "url": "https://youtu.be/6jYJab2ZWLw?si=1v3tvlpBhoyWCclv",
+            "tags": ["ヨルシカ①", "合宿ライブ", "2025", "12/2"]
+        },
+        {
+            "id": 6,
+            "title": "ヨルシカ②",
+            "url": "https://youtu.be/wCmXd3_Uccg?si=dz_5ynEquxRqQeJv",
+            "tags": ["ヨルシカ②", "合宿ライブ", "2025", "12/2"]
+        },
+        {
+            "id": 7,
+            "title": "デジタルパレット",
+            "url": "https://youtu.be/7gZ0phNF-ag?si=fWMBKzUzU9-8ae8u",
+            "tags": ["デジタルパレット", "合宿ライブ", "2025", "12/2"]
+        },
+        {
+            "id": 8,
+            "title": "23学年バンド",
+            "url": "https://youtu.be/-BY7FxIwnPo?si=mq-UKAME8bQ2HwfG",
+            "tags": ["23学年バンド", "合宿ライブ", "2025", "12/2"]
+        },
+        {
+            "id": 9,
+            "title": "LSD",
+            "url": "https://youtu.be/5iKkQv1Bopw?si=qo0O4bGYLwbOuia-",
+            "tags": ["LSD", "合宿ライブ", "2025", "12/2"]
+        },
+        {
+            "id": 10,
+            "title": "あいすべたへださーくる",
+            "url": "https://youtu.be/ucNTO3XoWgA?si=efRkhtLjM9ISM_Dc",
+            "tags": ["あいすべたへださーくる", "合宿ライブ", "2025", "12/2"]
+        },
+        {
+            "id": 11,
+            "title": "パチンコ枠",
+            "url": "https://youtu.be/WwUzdwqKJIY?si=zbWlobkqrhB7EqoY",
+            "tags": ["パチンコ枠", "合宿ライブ", "2025", "12/2"]
+        },
+        {
+            "id": 12,
+            "title": "雲丹son Square Garden【完全版】",
+            "url": "https://youtu.be/cpoW8XvFc84?si=IlI8bekXOGW5H9Ys",
+            "tags": ["雲丹son Square Garden【完全版】", "合宿ライブ", "2025", "12/2"]
+        },
+        {
+            "id": 13,
+            "title": "雲丹son Square Garden①",
+            "url": "https://youtu.be/Q1B0Xvlp2y4?si=RUNG4doaVhq65CzT",
+            "tags": ["雲丹son Square Garden①", "合宿ライブ", "2025", "12/2"]
+        },
+        {
+            "id": 14,
+            "title": "雲丹son Square Garden②",
+            "url": "https://youtu.be/wKLS0-9VUeI?si=ImRKm5-dW3EAlyOD",
+            "tags": ["雲丹son Square Garden②", "合宿ライブ", "2025", "12/2"]
+        },
+        {
+            "id": 15,
+            "title": "雲丹son Square Garden③",
+            "url": "https://youtu.be/BkMe2Kpgix8?si=x0Mehl_qyODGNux2",
+            "tags": ["雲丹son Square Garden③", "合宿ライブ", "2025", "12/2"]
+        },
+        {
+            "id": 16,
+            "title": "雲丹son Square Garden④",
+            "url": "https://youtu.be/6gPNTDofH7g?si=QmHz-9gzvn8n-WA5",
+            "tags": ["雲丹son Square Garden④", "合宿ライブ", "2025", "12/2"]
+        },
+        {
+            "id": 17,
+            "title": "阿蘇ファブリック",
+            "url": "",
+            "tags": ["阿蘇ファブリック", "合宿ライブ", "2025", "12/2"]
+        },
+        {
+            "id": 18,
+            "title": "GRIM SPANKY（1曲目のみ）",
+            "url": "https://youtu.be/RRNo1_FQcMg?si=uEuxf4ItH7tNZz2K",
+            "tags": ["GRIM SPANKY（1曲目のみ）", "合宿ライブ", "2025", "12/2"]
+        },
+        {
+            "id": 19,
+            "title": "チキチキバンバン（アンコール）",
+            "url": "https://youtu.be/kMHal5WRdgY?si=N9KNqrWCtHkEoUZ7",
+            "tags": ["チキチキバンバン（アンコール）", "合宿ライブ", "2025", "12/2"]
+        }
+        ]
+    },
+    {
+        "slug": "202512-GASSHUKU-DAY2",
+        "title": "202512 合宿ライブ DAY2",
+        "date": "2025-12-02",
+        "videos":[
+        {
+            "id": 1,
+            "title": "ナナヲアカリ",
+            "url": "https://youtu.be/XA35NrHzb-A?si=PKYXK2W_ambejPW9",
+            "tags": ["ナナヲアカリ", "合宿ライブ", "2025", "12/2"]
+        },
+        {
+            "id": 2,
+            "title": "甲本バンド①（携帯）",
+            "url": "https://youtu.be/lo83ELo57JQ?si=_YTB-pWZJOWmemdE",
+            "tags": ["甲本バンド①（携帯）", "合宿ライブ", "2025", "12/2"]
+        },
+        {
+            "id": 3,
+            "title": "甲本バンド②",
+            "url": "https://youtu.be/tjsiqYTJGj8?si=jqCSXmuiTJskdNZR",
+            "tags": ["甲本バンド②", "合宿ライブ", "2025", "12/2"]
+        },
+        {
+            "id": 4,
+            "title": "真緒弾き語り",
+            "url": "https://youtu.be/rHFLgs3lxNo?si=WTp6weEaOBiOB9tV",
+            "tags": ["真緒弾き語り", "合宿ライブ", "2025", "12/2"]
+        },
+        {
+            "id": 5,
+            "title": "救済された9歳",
+            "url": "https://youtu.be/xY8ks824304?si=8VRd7dy-hQinNuRX",
+            "tags": ["救済された9歳", "合宿ライブ", "2025", "12/2"]
+        },
+        {
+            "id": 6,
+            "title": "女子ドラマーだって前に立ちたい",
+            "url": "https://youtu.be/17O1NVO4JO0?si=XCVe1q62VkX7tu-e",
+            "tags": ["女子ドラマーだって前に立ちたい", "合宿ライブ", "2025", "12/2"]
+        },
+        {
+            "id": 7,
+            "title": "25学年バンド",
+            "url": "https://youtu.be/-B7LNuJzevk?si=1_SEY21Ez5DKDCFk",
+            "tags": ["25学年バンド", "合宿ライブ", "2025", "12/2"]
+        },
+        {
+            "id": 8,
+            "title": "粗品",
+            "url": "https://youtu.be/PRCt0Hgp8d4?si=SUOVCFltrp7e09Ym",
+            "tags": ["粗品", "合宿ライブ", "2025", "12/2"]
+        },
+        {
+            "id": 9,
+            "title": "結局かまってちゃん",
+            "url": "https://youtu.be/LFuYD2AWmd0?si=68naeyN5DrcsIJ8A",
+            "tags": ["結局かまってちゃん", "合宿ライブ", "2025", "12/2"]
+        },
+        {
+            "id": 10,
+            "title": "ミセスグラニースミス",
+            "url": "https://youtu.be/YG2uC22YVE4?si=Ty4yhqAu8S2IiChg",
+            "tags": ["ミセスグラニースミス", "合宿ライブ", "2025", "12/2"]
+        },
+        {
+            "id": 11,
+            "title": "JUDY END MARY",
+            "url": "https://youtu.be/qAYoHDiJh5g?si=nYFXKh2t9sBDXfrQ",
+            "tags": ["JUDY END MARY", "合宿ライブ", "2025", "12/2"]
+        },
+        {
+            "id": 12,
+            "title": "ONE MORE ROCK",
+            "url": "https://youtu.be/GIKlSzwp9bQ?si=Dz8E1ptdNp5CfoOI",
+            "tags": ["ONE MORE ROCK", "合宿ライブ", "2025", "12/2"]
+        },
+        {
+            "id": 13,
+            "title": "MONO NO AWARE",
+            "url": "https://youtu.be/y0e_P7sF7zw?si=7SWdOmOP2pX-DEI0",
+            "tags": ["MONO NO AWARE", "合宿ライブ", "2025", "12/2"]
+        },
+        {
+            "id": 14,
+            "title": "アカシック",
+            "url": "https://youtu.be/nfTlA5x90ME?si=gE8fO8nJ8woHpKi6",
+            "tags": ["アカシック", "合宿ライブ", "2025", "12/2"]
+        },
+        {
+            "id": 15,
+            "title": "22学年バンド①",
+            "url": "https://youtu.be/RIBDi83XvoQ?si=gRWQA3yfLVBSIFA6",
+            "tags": ["22学年バンド①", "合宿ライブ", "2025", "12/2"]
+        },
+        {
+            "id": 16,
+            "title": "22学年バンド②",
+            "url": "https://youtu.be/RIBs7VeT2gE?si=UPhOBg0qQ-sp4Nat",
+            "tags": ["22学年バンド②", "合宿ライブ", "2025", "12/2"]
+        }
+        ]
+    },
+    {
+        "slug": "202512-CHOP-DAY1",
+        "title": "202512 手刀ライブ DAY1",
+        "date": "2025-12-02",
+        "videos": [
+        {
+            "id": 1,
+            "title": "TAISHO CHAOTIC（22竹内薫平カメラ）",
+            "url": "https://youtu.be/Yxm7I2NaV14?si=CwD-iqqHjFfgLWF6",
+            "tags": ["TAISHO CHAOTIC（22竹内薫平カメラ）", "手刀ライブ", "2025", "12/2"]
+        },
+        {
+            "id": 2,
+            "title": "コミヤクション",
+            "url": "https://youtu.be/s7LZYTANhRQ?si=IcA6PMWLi4C_4ax-",
+            "tags": ["コミヤクション", "手刀ライブ", "2025", "12/2"]
+        },
+        {
+            "id": 3,
+            "title": "Ambivalence",
+            "url": "https://youtu.be/Ap5E5asFGyo?si=QxC1qDEs4jQ48bt4",
+            "tags": ["Ambivalence", "手刀ライブ", "2025", "12/2"]
+        },
+        {
+            "id": 4,
+            "title": "ふーま",
+            "url": "https://youtu.be/NT6y0QLBB_A?si=AOnWz1tHLn76Jkeo",
+            "tags": ["ふーま", "手刀ライブ", "2025", "12/2"]
+        },
+        {
+            "id": 5,
+            "title": "mol",
+            "url": "https://youtu.be/3K_LMjAHEtE?si=uc3iwAWR4Kl5zpTy",
+            "tags": ["mol", "手刀ライブ", "2025", "12/2"]
+        },
+        {
+            "id": 6,
+            "title": "ツヨシカ",
+            "url": "https://youtu.be/hKyunQ_wvEE?si=RAlhlWRTy2rP1P5R",
+            "tags": ["ツヨシカ", "手刀ライブ", "2025", "12/2"]
+        },
+        {
+            "id": 7,
+            "title": "BUMP OF CHICKEN",
+            "url": "https://youtu.be/GCmkr2LZ-Eo?si=WSDjc5zTKd66XXvn",
+            "tags": ["BUMP OF CHICKEN", "手刀ライブ", "2025", "12/2"]
+        },
+        {
+            "id": 8,
+            "title": "LEGO",
+            "url": "https://youtu.be/YoPbwbZVOxw?si=Gt7MIjzqJUfoJsYH",
+            "tags": ["LEGO", "手刀ライブ", "2025", "12/2"]
+        },
+        {
+            "id": 9,
+            "title": "V系",
+            "url": "https://youtu.be/265JbaegY74?si=GR1qamvb44GqjXMw",
+            "tags": ["V系", "手刀ライブ", "2025", "12/2"]
+        },
+        {
+            "id": 10,
+            "title": "おーらる",
+            "url": "https://youtu.be/YftTL2raIMQ?si=3Rw7gthAnhzxvdIj",
+            "tags": ["おーらる", "手刀ライブ", "2025", "12/2"]
+        },
+        {
+            "id": 11,
+            "title": "Touchmos",
+            "url": "https://youtu.be/UqlsqXA6rUY?si=k1xhHKFGDq4WYAPm",
+            "tags": ["Touchmos", "手刀ライブ", "2025", "12/2"]
+        },
+        {
+            "id": 12,
+            "title": "ペドロ",
+            "url": "https://youtu.be/QQNE1yb0kXQ?si=QIyg1gaaB9tPlxrO",
+            "tags": ["ペドロ", "手刀ライブ", "2025", "12/2"]
+        },
+        {
+            "id": 13,
+            "title": "MADFIMPS",
+            "url": "https://youtu.be/VY_mCfb7Mww?si=4_H3502rN1Ir3hI8",
+            "tags": ["MADFIMPS", "手刀ライブ", "2025", "12/2"]
+        }
+        ]
+    },
+    {
+        "slug": "202512-CHOP-DAY2",
+        "title": "202512 手刀ライブ DAY2",
+        "date": "2025-12-02",
+        "videos":[
+        {
+            "id": 1,
+            "title": "AYASE OR DIE",
+            "url": "https://youtu.be/KhbYiESysrY?si=ZQbDWOu0rR3-SUsC",
+            "tags": ["AYASE OR DIE", "手刀ライブ", "2025", "12/2"]
+        },
+        {
+            "id": 2,
+            "title": "oasis",
+            "url": "https://youtu.be/4TA36JkDmfc?si=RI5HMNZZNveeBxwK",
+            "tags": ["oasis", "手刀ライブ", "2025", "12/2"]
+        },
+        {
+            "id": 3,
+            "title": "Hump Back",
+            "url": "https://youtu.be/lmYzT2sh5ZY?si=dEviCCt5_jSWLjoM",
+            "tags": ["Hump Back", "手刀ライブ", "2025", "12/2"]
+        },
+        {
+            "id": 4,
+            "title": "ONE MORE ROCK",
+            "url": "https://youtu.be/ESu4OJ3J8Lw?si=5ksqceHKdd8YU8dS",
+            "tags": ["ONE MORE ROCK", "手刀ライブ", "2025", "12/2"]
+        },
+        {
+            "id": 5,
+            "title": "天才な10歳",
+            "url": "https://youtu.be/ZsyH7dU5HKU?si=W7z4l6orVzQy_sD7",
+            "tags": ["天才な10歳", "手刀ライブ", "2025", "12/2"]
+        },
+        {
+            "id": 6,
+            "title": "大谷ドジャース",
+            "url": "https://youtu.be/CiJeNnlgfsg?si=9vpdxJlS_i96-Lea",
+            "tags": ["大谷ドジャース", "手刀ライブ", "2025", "12/2"]
+        },
+        {
+            "id": 7,
+            "title": "アニソン",
+            "url": "https://youtu.be/tgf9tG9U8_E?si=sic5sF539HhGjpoI",
+            "tags": ["アニソン", "手刀ライブ", "2025", "12/2"]
+        },
+        {
+            "id": 8,
+            "title": "少女達",
+            "url": "https://youtu.be/ohKqhHeapuk?si=mbqnZ_lCgmqsp3JU",
+            "tags": ["少女達", "手刀ライブ", "2025", "12/2"]
+        },
+        {
+            "id": 9,
+            "title": "コレサワごっこ",
+            "url": "https://youtu.be/QVnWurJg3bY?si=4GVo8-2j2j3CgAVH",
+            "tags": ["コレサワごっこ", "手刀ライブ", "2025", "12/2"]
+        },
+        {
+            "id": 10,
+            "title": "あいすたべたべさーくる",
+            "url": "https://youtu.be/HPyw5W49Uj4?si=TKCqQtVwblftUuS8",
+            "tags": ["あいすたべたべさーくる", "手刀ライブ", "2025", "12/2"]
+        },
+        {
+            "id": 11,
+            "title": "キュウソネコカミ",
+            "url": "https://youtu.be/fgyyihijkqc?si=tNTcUnP9UAgKVGf9",
+            "tags": ["キュウソネコカミ", "手刀ライブ", "2025", "12/2"]
+        },
+        {
+            "id": 12,
+            "title": "SPYAIR①",
+            "url": "https://youtu.be/ocdxgdNx45E?si=jAD0HxQV2WQOL0Av",
+            "tags": ["SPYAIR①", "手刀ライブ", "2025", "12/2"]
+        },
+        {
+            "id": 13,
+            "title": "SPYAIR②",
+            "url": "https://youtu.be/umudydEwfgk?si=eojHxa1Tv0aVyxlA",
+            "tags": ["SPYAIR②", "手刀ライブ", "2025", "12/2"]
+        },
+        {
+            "id": 14,
+            "title": "KEYTALK!!!!（22竹内薫平カメラ）",
+            "url": "https://youtu.be/tsYzPRRwK-o?si=sl9_aHKT6lz1l1fA",
+            "tags": ["KEYTALK!!!!（22竹内薫平カメラ）", "手刀ライブ", "2025", "12/2"]
+        }
+        ]
+    },
+    {
+        "slug": "202512-CHOP-DAY3",
+        "title": "202512 手刀ライブ DAY3",
+        "date": "2025-12-02",
+        "videos":[
+        {
+            "id": 1,
+            "title": "N'Arc~en~Ciel",
+            "url": "https://youtu.be/V1fctpciK8o",
+            "tags": ["N'Arc~en~Ciel", "手刀ライブ", "2025", "12/2"]
+        },
+        {
+            "id": 2,
+            "title": "BOWS",
+            "url": "https://youtu.be/_uAX77IxRNY",
+            "tags": ["BOWS", "手刀ライブ", "2025", "12/2"]
+        },
+        {
+            "id": 3,
+            "title": "06-performance",
+            "url": "https://youtu.be/a65qQfQ2gK8",
+            "tags": ["06-performance", "手刀ライブ", "2025", "12/2"]
+        },
+        {
+            "id": 4,
+            "title": "音楽、大人教育",
+            "url": "https://youtu.be/tzec7pxnVow",
+            "tags": ["音楽、大人教育", "手刀ライブ", "2025", "12/2"]
+        },
+        {
+            "id": 5,
+            "title": "[Akixandros]",
+            "url": "https://youtu.be/fg2Z6KzTREo",
+            "tags": ["[Akixandros]", "手刀ライブ", "2025", "12/2"]
+        },
+        {
+            "id": 6,
+            "title": "ano",
+            "url": "https://youtu.be/iE9ohHij7fI",
+            "tags": ["ano", "手刀ライブ", "2025", "12/2"]
+        },
+        {
+            "id": 7,
+            "title": "Chevon",
+            "url": "https://youtu.be/G5WN66C9dWA",
+            "tags": ["Chevon", "手刀ライブ", "2025", "12/2"]
+        },
+        {
+            "id": 8,
+            "title": "徹子の部屋",
+            "url": "https://youtu.be/7BPO1yB5Fjg",
+            "tags": ["徹子の部屋", "手刀ライブ", "2025", "12/2"]
+        },
+        {
+            "id": 9,
+            "title": "Ahooo",
+            "url": "https://youtu.be/vGfFA1gkyB0",
+            "tags": ["Ahooo", "手刀ライブ", "2025", "12/2"]
+        },
+        {
+            "id": 10,
+            "title": "銀盤①",
+            "url": "https://youtu.be/aCHYMa5JKHg",
+            "tags": ["銀盤①", "手刀ライブ", "2025", "12/2"]
+        },
+        {
+            "id": 11,
+            "title": "銀盤②",
+            "url": "https://youtu.be/YGTWIvuc1TI",
+            "tags": ["銀盤②", "手刀ライブ", "2025", "12/2"]
+        },
+        {
+            "id": 12,
+            "title": "おいしくる",
+            "url": "https://youtu.be/Gtx3-XT73bs",
+            "tags": ["おいしくる", "手刀ライブ", "2025", "12/2"]
+        },
+        {
+            "id": 13,
+            "title": "トゲアリトゲナシトゲトゲ",
+            "url": "https://youtu.be/Pb3nYEQE3gE",
+            "tags": ["トゲアリトゲナシトゲトゲ", "手刀ライブ", "2025", "12/2"]
+        }
+        ]
+    },
+
     {
         "slug": "202507-OBOG-DAY1",
         "title": "202507 OBOG DAY1",

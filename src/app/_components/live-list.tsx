@@ -57,7 +57,7 @@ export function LiveList({ lives }: { lives: Live[] }) {
                 href={`/lives/${live.slug}`}
                 className="block rounded border border-neutral-300 p-5 hover:border-blue-500"
               >
-                <p className="text-lg font-bold">📁 {live.title}</p>
+                <p className="text-lg font-bold"> {live.title}</p>
                 <p className="mt-1 text-sm text-neutral-500">
                   {live.date} / {live.videos.length}本
                 </p>
