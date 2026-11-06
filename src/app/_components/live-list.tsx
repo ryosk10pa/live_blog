@@ -2,24 +2,19 @@
 
 import Link from "next/link";
 import { useState } from "react";
+import type { Live } from "@/lib/lives";
+import { aimaiSearch } from "@/lib/search";
 
-type Video = {
-  id: string | number;
-  title: string;
-  url: string;
-  tags: string[];
-};
 
-type Live = {
-  slug: string;
-  title: string;
-  date: string;
-  videos: Video[];
-};
-
-export function LiveList({ lives }: { lives: Live[] }) {
+export function LiveList({
+  lives,
+  years,
+}: {
+  lives: Live[];
+  years: {year: string; count: number }[];
+}){
   const [keyword, setKeyword] = useState("");
-  const q = keyword.trim().toLowerCase();
+  const q = aimaiSearch(keyword.trim());
 
   // 検索用:全ライブの動画を、1つのリストにまとめる
   const allVideos = lives.flatMap((live) =>
@@ -32,11 +27,10 @@ export function LiveList({ lives }: { lives: Live[] }) {
   );
 
   const results = allVideos.filter((v) =>
-    [v.title, v.liveTitle, v.date, ...v.tags]
-      .join(" ")
-      .toLowerCase()
-      .includes(q)
-  );
+    aimaiSearch(
+      [v.title, v.liveTitle, v.date, ...(v.tags ?? [])].join(" ")
+    ).includes(q)
+    );
 
   return (
     <div>
@@ -49,20 +43,18 @@ export function LiveList({ lives }: { lives: Live[] }) {
       />
 
       {q === "" ? (
-        // 検索していないとき:ライブのフォルダを表示
+        // 検索していないとき:年ごとのフォルダを表示
         <ul className="mt-6 grid gap-4 sm:grid-cols-2">
-          {lives.map((live) => (
-            <li key={live.slug}>
-              <Link
-                href={`/lives/${live.slug}`}
-                className="block rounded border border-neutral-300 p-5 hover:border-blue-500"
+          {years.map(({ year, count }) => (
+          <li key={year}>
+            <Link
+            href={`/years/${year}`}
+            className="block rounded border border-neutral-300 p-5 hover:border-blue-500"
               >
-                <p className="text-lg font-bold"> {live.title}</p>
-                <p className="mt-1 text-sm text-neutral-500">
-                  {live.date} / {live.videos.length}本
-                </p>
-              </Link>
-            </li>
+            <p className="text-lg font-bold"> {year}年</p>
+            <p className="mt-1 text-sm text-neutral-500">{count}ライブ</p>
+            </Link>
+          </li>
           ))}
         </ul>
       ) : (
@@ -83,7 +75,7 @@ export function LiveList({ lives }: { lives: Live[] }) {
                 </a>
                 <p className="mt-1 text-sm text-neutral-500">
                   {v.date} / {v.liveTitle}
-                  {v.tags.length > 0 && ` / ${v.tags.join("、")}`}
+                  {v.tags && v.tags.length > 0 && ` / ${v.tags.join("、")}`}
                 </p>
               </li>
             ))}

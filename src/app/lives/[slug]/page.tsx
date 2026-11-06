@@ -1,7 +1,8 @@
 import Container from "@/app/_components/container";
 import lives from "@/data/lives.json";
-import Link from "next/link";
 import { notFound } from "next/navigation";
+import { BackLinks } from "@/app/_components/back-links";
+import { getYear } from "@/lib/lives";
 
 export function generateStaticParams() {
     return lives.map((live) => ({
@@ -21,13 +22,7 @@ const live = lives.find((l) => l.slug === slug);
     return (
         <main>
             <Container>
-                <Link
-                    href="/"
-                    className="mt-8 inline-block underline hover:text-blue-600"
-                    >
-                        ← ライブ一覧に戻る
-                    </Link>
-
+                <BackLinks backHref={`/years/${getYear(live)}`} />
                     <h1 className="mt-6 text-3xl font-bold">{live.title}</h1>
                     <p className="mt-1 text-neutral-500">{live.date}</p>
 

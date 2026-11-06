@@ -1,9 +1,8 @@
 import Container from "@/app/_components/container";
 import{ LiveList } from "@/app/_components/live-list";
-import lives from "@/data/lives.json";
+import{ getAllLives, getYears } from "@/lib/lives";
 
 export default function index() {
-  const sorted = [...lives].sort((a, b) => (a.date > b.date ? -1 : 1));
 
   return (
     <main>
@@ -22,7 +21,7 @@ export default function index() {
 
         </div>
 
-        <LiveList lives={sorted} />
+        <LiveList lives={getAllLives()} years={getYears()} />
       </Container>
     </main>
   );

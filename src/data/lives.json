@@ -2807,15 +2807,15 @@
         },
         {
             "id": 10,
-            "title": "[Moctails]",
+            "title": "[Mocktails]",
             "url": "https://youtu.be/gdreixrwkeI?si=k8kzzGCh5uV3FbhP",
-            "tags": ["[Moctails]", "合宿ライブ", "2023", "9/4-8"]
+            "tags": ["[Mocktails]", "合宿ライブ", "2023", "9/4-8"]
         },
         {
             "id": 11,
-            "title": "[Moctails]（携帯カメラ）",
+            "title": "[Mocktails]（携帯カメラ）",
             "url": "https://youtu.be/cjxJVbS4kBU?si=S7lGjFTX8JR4csPL",
-            "tags": ["[Moctails]（携帯カメラ）", "合宿ライブ", "2023", "9/4-8"]
+            "tags": ["[Mocktails]（携帯カメラ）", "合宿ライブ", "2023", "9/4-8"]
         },
         {
             "id": 12,
@@ -4981,8 +4981,8 @@
     },
     {
         "slug": "202412-KURIKON-DAY1",
-        "title": "202412 KURIKON DAY1",
-        "date": "2025-1-6",
+        "title": "202412 クリコン DAY1",
+        "date": "2025-01-06",
         "videos":[
         {
             "id": 1,
@@ -5024,7 +5024,7 @@
     },
     {
         "slug": "202412-KURIKON-DAY2",
-        "title": "202412 KURIKON DAY2",
+        "title": "202412 クリコン DAY2",
         "date": "2025-01-06",
         "videos":[
         {
@@ -5079,7 +5079,7 @@
     },
     {
         "slug": "202412-KURIKON-DAY3",
-        "title": "202412 KURIKON DAY3",
+        "title": "202412 クリコン DAY3",
         "date": "2025-01-06",
         "videos":[
         {
